@@ -1,0 +1,3113 @@
+[{
+"name": "Common Word I",
+"numberCard": 51,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "maintain",
+"type": "<strong>verb:</strong> to assert",
+"tag": "new word",
+"script": "The scientist <strong>maintained</strong> that the extinction of dinosaurs was most likely brought about by a drastic change in climate."
+}, {
+"word": "laconic",
+"type": "<strong>adjective:</strong> (describes a person, speech, or style of writing) using very few words",
+"tag": "new word",
+"script": "While Martha always swooned over the hunky, <strong>laconic</strong> types in romantic comedies, her boyfriends inevitably were very talkative—and not very hunky."
+}, {
+"word": "egregious",
+"type": "<strong>adjective:</strong> standing out in a negative way; shockingly bad",
+"tag": "new word",
+"script": "The dictator’s abuse of human rights was so <strong>egregious</strong> that many world leaders demanded that he be tried in an international court for genocide. "
+}, {
+"word": "innocuous",
+"type": "<strong>adjective:</strong> harmless and doesn’t produce any ill effects",
+"tag": "new word",
+"script": "Everyone found Nancy’s banter <strong>innocuous</strong>—except for Mike, who felt like she was intentionally picking on him."
+}, {
+"word": "extant",
+"type": "<strong>adjective:</strong> still in existence (usually refers to documents).",
+"tag": "new word",
+"script": "Despite many bookstores closing, experts predict that some form of book dealing will still be <strong>extant</strong> generations from now."
+}, {
+"word": "auspicious",
+"type": "<strong>adjective:</strong> favorable, the opposite of sinister",
+"tag": "new word",
+"script": "Despite an <strong>auspicious</strong> beginning, Mike’s road trip became a series of mishaps, and he was soon stranded and penniless, leaning against his wrecked automobile."
+}, {
+"word": "ambivalent",
+"type": "<strong>adjective:</strong> mixed or conflicting emotions about something",
+"tag": "new word",
+"script": "Sam was <strong>ambivalent</strong> about studying for the exam because doing so ate up a lot of his time, yet he was able to improve his analytical skills. "
+}, {
+"word": "involved",
+"type": "<strong>adjective:</strong> complicated, and difficult to comprehend",
+"tag": "new word",
+"script": "The physics lecture became so <strong>involved</strong> that the undergraduate’s eyes glazed over."
+}, {
+"word": "wanting",
+"type": "<strong>adjective:</strong> lacking",
+"tag": "new word",
+"script": "She did not think her vocabulary was <strong>wanting</strong>, yet there were so many words that inevitably she found a few she didnt know."
+}, {
+"word": "frugal",
+"type": "<strong>adjective:</strong> not spending much money (but spending wisely)",
+"tag": "new word",
+"script": "Monte was no miser, but was simply <strong>frugal</strong>, wisely spending the little that he earned."
+}, {
+"word": "prevaricate",
+"type": "<strong>verb:</strong> to speak in an evasive way",
+"tag": "new word",
+"script": "The cynic quipped, “There is not much variance in politicians; they all seem to <strong>prevaricate</strong>”. "
+}, {
+"word": "enervate",
+"type": "<strong>verb:</strong> to sap energy from",
+"tag": "new word",
+"script": "John preferred to avoid equatorial countries; the intense sun would always leave him <strong>enervated</strong> after he’d spent the day sightseeing."
+}, {
+"word": "equivocal",
+"type": "<strong>adjective:</strong> confusing or ambiguous",
+"tag": "new word",
+"script": "The findings of the study were <strong>equivocal</strong>—the two researchers had different opinions on what the results signified."
+}, {
+"word": "galvanize",
+"type": "<strong>verb:</strong> to excite or inspire (someone) to action",
+"tag": "new word",
+"script": "At mile 23 of his first marathon, Kyle had all but given up, until he noticed his friends and family holding a banner that read, “Go Kyle”; <strong>galvanized</strong>, he broke into a gallop, finishing the last three miles in less than 20 minutes."
+}, {
+"word": "intimate",
+"type": "<strong>verb:</strong> to suggest something subtly",
+"tag": "new word",
+"script": "At first Manfred’s teachers <strong>intimated</strong> to his parents that he was not suited to skip a grade; when his parents protested, teachers explicitly told them that, notwithstanding the boy’s precocity, he was simply too immature to jump to the 6th grade."
+}, {
+"word": "qualify",
+"type": "<strong>verb:</strong> to make less severe; to limit (a statement)",
+"tag": "new word",
+"script": "Chris <strong>qualified</strong> his love for San Francisco, adding he didnt like the weather there as much as he liked the weather in Los Angeles."
+}, {
+"word": "demur",
+"type": "<strong>verb:</strong> to object or show reluctance",
+"tag": "new word",
+"script": "Wallace disliked the cold, so he <strong>demurred</strong> when his friends suggested they go skiing in the Alps."
+}, {
+"word": "artful",
+"type": "<strong>adjective:</strong> exhibiting artistic skill",
+"tag": "new word",
+"script": "Picasso is generally considered the most <strong>artful</strong> member of the Cubist movement.<br/><strong>adjective:</strong> clever in a cunning way<br/>Bernie Madoffs <strong>artful</strong> Ponzi scheme stole billions of dollars from investors and is considered the largest financial fraud in U.S. history."
+}, {
+"word": "censure",
+"type": "<strong>verb:</strong> to express strong disapproval",
+"tag": "new word",
+"script": "After being caught in bed with a mistress, the mayor was quickly <strong>censured</strong> by the city council."
+}, {
+"word": "mercurial",
+"type": "<strong>adjective:</strong> (of a person) prone to unexpected and unpredictable changes in mood",
+"tag": "new word",
+"script": "The fact that Ella’s moods were as <strong>mercurial</strong> as the weather was problematic for her relationships—it didn’t help that she lived in Chicago."
+}, {
+"word": "parochial",
+"type": "<strong>adjective:</strong> narrowly restricted in scope or outlook ",
+"tag": "new word",
+"script": "Jasmine was sad to admit it, but her fledgling relationship with Jacob did not work out because his culinary tastes were simply too <strong>parochial</strong>; \"After all,\" she quipped on her blog, \"he considered Chef Boyardee ethnic food.\""
+}, {
+"word": "iconoclast",
+"type": "<strong>noun:</strong> somebody who attacks cherished beliefs or institutions",
+"tag": "new word",
+"script": "Lady Gaga, in challenging what it means to be clothed, is an <strong>iconoclast</strong> for wearing a \"meat dress\" to a prominent awards show."
+}, {
+"word": "restive",
+"type": "<strong>adjective:</strong> restless",
+"tag": "new word",
+"script": "The crowd grew <strong>restive</strong> as the comedian’s opening jokes fell flat."
+}, {
+"word": "venality",
+"type": "<strong>noun:</strong> the condition of being susceptible to bribes or corruption",
+"tag": "new word",
+"script": "Even some of the most sacred sporting events are not immune to <strong>venality</strong>, as many of the officials have received substantial bribes to make biased calls."
+}, {
+"word": "betray",
+"type": "<strong>verb:</strong> to reveal or make known something, usually unintentionally",
+"tag": "new word",
+"script": "With the gold medal at stake, the gymnast awaited his turn, his quivering lip <strong>betraying</strong> his intense emotions."
+}, {
+"word": "parsimonious",
+"type": "<strong>adjective:</strong> extremely frugal; miserly",
+"tag": "new word",
+"script": "Katie is so <strong>parsimonious</strong> that she only buys a pair of socks if all of her other socks have holes in them."
+}, {
+"word": "undermine",
+"type": "<strong>verb:</strong> to weaken (usually paired with an abstract term)",
+"tag": "new word",
+"script": "The student <strong>undermined</strong> the teacher’s authority by questioning the teacher’s judgment on numerous occasions."
+}, {
+"word": "disinterested",
+"type": "<strong>adjective:</strong> unbiased; neutral",
+"tag": "new word",
+"script": "The potential juror knew the defendant, and therefore could not serve on the jury, which must consist only of <strong>disinterested</strong> members."
+}, {
+"word": "belie",
+"type": "<strong>verb:</strong> to give a false representation to; misrepresent",
+"tag": "new word",
+"script": "The smile on her face <strong>belies</strong> the pain she must feel after the death of her husband."
+}, {
+"word": "profligate",
+"type": "<strong>adjective:</strong> spending resources recklessly or wastefully",
+"tag": "new word",
+"script": "The composer Wagner, while living on a limited salary, was so <strong>profligate</strong> as to line all the walls of his apartment with pure silk.<br/><strong>noun:</strong> someone who spends resources recklessly or wastefull< br / > Most lottery winners go from being conservative,frugal types to outright < strong > profligates < /strong> who blow millions on fast cars, lavish homes, and giant yachts. "
+
+}, {
+"word": "prodigal",
+"type": "<strong>adjective:</strong> rashly or wastefully extravagant",
+"tag": "new word",
+"script": "Successful professional athletes who do not fall prey to <strong>prodigality</strong> seem to be the exception—most live decadent lives."
+}, {
+"word": "impertinent",
+"type": "<strong>adjective:</strong> being disrespectful; improperly forward or bold",
+"tag": "new word",
+"script": "Dexter, distraught over losing his pet dachshund, Madeline, found the police officer’s questions <strong>impertinent</strong>—after all, he thought, did she have to pry into such details as to what Madeline’s favorite snack was?"
+}, {
+"word": "venerate",
+"type": "<strong>verb:</strong> to respect deeply",
+"tag": "new word",
+"script": "The professor, despite his sleep-inducing lectures, was <strong>venerated</strong> amongst his colleagues, publishing more papers yearly than all of his peers combined."
+}, {
+"word": "veracious",
+"type": "<strong>adjective:</strong> truthful",
+"tag": "new word",
+"script": "While we elect our leaders in the hope that every word they speak  will be <strong>veracious</strong>, history has shown that such a hope is naive. "
+}, {
+"word": "vindicate",
+"type": "<strong>verb:</strong> to clear of accusation, blame, suspicion, or doubt with supporting arguments or proof",
+"tag": "new word",
+"script": "Even seven Tour de France wins cannot <strong>vindicate</strong> Lance Armstrong in the eyes of the public--that the athlete used performance enhancing drugs invalidates all those wins. "
+}, {
+"word": "upbraid",
+"type": "<strong>verb:</strong> to reproach; to scold",
+"tag": "new word",
+"script": "Bob took a risk walking into the \"Students Barbershop\"—in the end he had to <strong>upbraid</strong> the apparently drunk barber for giving him an uneven bowl cut."
+}, {
+"word": "chastise",
+"type": "<strong>verb:</strong> to reprimand harshly",
+"tag": "new word",
+"script": "Though <strong>chastised</strong> for eating the snacks for the party, Lawrence shrugged off his mother’s harsh words, and continued to plow through jars of cookies and boxes of donuts."
+}, {
+"word": "castigate",
+"type": "<strong>verb:</strong> to reprimand harshly",
+"tag": "new word",
+"script": "Drill sergeants are known to <strong>castigate</strong> new recruits so mercilessly that the latter often break down during their first week in training."
+}, {
+"word": "commensurate",
+"type": "<strong>adjective:</strong> to be in proportion or corresponding in degree or amount",
+"tag": "new word",
+"script": "The convicted felon’s life sentence was <strong>commensurate</strong> with the heinousness of his crime."
+}, {
+"word": "calumny",
+"type": "<strong>noun:</strong> making of a false statement meant to injure a person’s reputation",
+"tag": "new word",
+"script": "With the presidential primaries well under way, the air is thick with <strong>calumny</strong>, and the mud already waist-high."
+}, {
+"word": "amorphous",
+"type": "<strong>adjective:</strong> shapeless",
+"tag": "new word",
+"script": "His study plan for the GRE was at best <strong>amorphous</strong>; he would do questions from random pages in any one of seven test prep books. "
+}, {
+"word": "ambiguous",
+"type": "<strong>adjective:</strong> open to more than one interpretation",
+"tag": "new word",
+"script": "The coach told his team, “Move towards that side of the field”; because he did not point, his directions were <strong>ambiguous</strong>, and the team had no idea to which side he was referring. "
+}, {
+"word": "aberration",
+"type": "<strong>noun:</strong> a deviation from what is normal or expected",
+"tag": "new word",
+"script": "<strong>Aberrations</strong> in climate have become the norm: rarely a week goes by without some meteorological phenomenon making headlines."
+}, {
+"word": "acrimony",
+"type": "<strong>noun:</strong> bitterness and ill will",
+"tag": "new word",
+"script": "The <strong>acrimony</strong> between the president and vice-president sent a clear signal to voters: the health of the current administration was imperiled. "
+}, {
+"word": "anomalous",
+"type": "<strong>adjective:</strong> not normal",
+"tag": "new word",
+"script": "According to those who do not believe in climate change, the extreme weather over the last five years is simply <strong>anomalous</strong>—daily temperatures should return to their old averages, they believe."
+}, {
+"word": "amenable",
+"type": "<strong>adjective:</strong> easily persuaded",
+"tag": "new word",
+"script": "Even though she did not like the outdoors, Shirley was generally <strong>amenable</strong> and so her brother was able to persuade her to go camping. "
+}, {
+"word": "ingenuous",
+"type": "<strong>adjective:</strong> to be naïve and innocent",
+"tag": "new word",
+"script": "Two-years in Manhattan had changed Jenna from an <strong>ingenuous</strong> girl from the suburbs to a jaded urbanite, unlikely to fall for any ruse, regardless of how elaborate. "
+}, {
+"word": "gregarious",
+"type": "<strong>adjective:</strong> to be likely to socialize with others",
+"tag": "new word",
+"script": "Often we think that great leaders are those who are <strong>gregarious</strong>, always in the middle of a large group of people; yet, as Mahatma Gandhi and many others have shown us, leaders can also be introverted."
+}, {
+"word": "harangue",
+"type": "<strong>noun:</strong> a long pompous speech; a tirade",
+"tag": "new word",
+"script": "Dinner at Billys was more a punishment than a reward, since anyone who sat at the dinner table would have to listen to Billys fathers interminable <strong>harangues</strong> against the government.<br/><strong>verb:</strong> to deliver a long pompous speech or tirade<br/> Tired of his parents <strong>haranguing</strong> him about his laziness and lack of initiative, Tyler finally moved out of home at the age of thirty-five. "
+}, {
+"word": "amalgam",
+"type": "<strong>noun:</strong> a mixture of multiple things",
+"tag": "new word",
+"script": "The band’s music was an <strong>amalgam</strong> of hip-hop, flamenco and jazz, blending the three styles with surprising results. "
+}, {
+"word": "Magoosh",
+"type": "<strong>noun:</strong> An online GRE prep product used by tens of thousands of students worldwide. Learn more at gre.magoosh.com.",
+"tag": "new word",
+"script": "After using <strong>Magoosh</strong>, Tom improved his GRE score by 8 points and was then admitted into UC Berkeley."
+}]
+}, {
+"name": "Common Word II",
+"numberCard": 51,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "aesthete",
+"type": "<strong>noun:</strong> one who professes great sensitivity to the beauty of art and nature",
+"tag": "new word",
+"script": "A true <strong>aesthete</strong>, Marty would spend hours at the Guggenheim Museum, staring at the same Picasso."
+}, {
+"word": "aesthetic",
+"type": "<strong>adjective:</strong> concerned with the appreciation of beauty",
+"tag": "new word",
+"script": "The director, not known for his <strong>aesthetic</strong> sensibilities, decided not to use costumes at all, and put on the play in everyday clothing.<br/><strong>noun:</strong> a set of principles underlying and guiding the work of a particular artist or artistic movement.</br>The artist operated according to a peculiar <strong>aesthetic</strong>, not considering any photograph to be worth publishing unless it contained a marine mammal."
+}, {
+"word": "apathetic",
+"type": "<strong>adjective:</strong> marked by a lack of interest",
+"tag": "new word",
+"script": "Mr. Thompson was so talented at teaching math that even normally <strong>apathetic</strong> students took interest."
+}, {
+"word": "audacious",
+"type": "<strong>adjective:</strong> willing to be bold in social situations or to take risks",
+"tag": "new word",
+"script": "As all of the other campers cowered in their tents, Bill, armed only with a flashlight, <strong>audaciously</strong> tracked down the bear that had raided their food."
+}, {
+"word": "banal",
+"type": "<strong>adjective:</strong> repeated too often; overfamiliar through overuse",
+"tag": "new word",
+"script": "The professor used such <strong>banal</strong> expression that many students in the class either fell asleep from boredom or stayed awake to complete his sentences and humor friends."
+}, {
+"word": "bucolic",
+"type": "<strong>adjective:</strong> relating to the pleasant aspects of the country ",
+"tag": "new word",
+"script": "The noble families of England once owned vast expanses of beautiful, <strong>bucolic</strong> land."
+}, {
+"word": "chortle",
+"type": "<strong>verb:</strong> to chuckle, laugh merrily, often in a breathy, muffled way",
+"tag": "new word",
+"script": "Walking into the cafe, I could hear happy, <strong>chortling</strong> people and smell the rich aroma of roasted coffee beans."
+}, {
+"word": "concede",
+"type": "<strong>verb:</strong> acknowledge defeat",
+"tag": "new word",
+"script": "I <strong>concede</strong>. You win!<br/><strong>verb:</strong> admit (to a wrongdoing)</br>After a long, stern lecture from her father, Olivia <strong>conceded</strong> to having broken the window.<br/><strong>verb:</strong> give over; surrender or relinquish to the physical control of another</br>The Spanish were forced to <strong>concede</strong> much of the territory they had previously conquered."
+}, {
+"word": "conspicuous",
+"type": "<strong>adjective:</strong> without any attempt at concealment; completely obvious",
+"tag": "new word",
+"script": "American basketball players are always <strong>conspicuous</strong> when they go abroad--not only are they American, but some are over seven feet tall."
+}, {
+"word": "cryptic",
+"type": "<strong>adjective:</strong> mysterious or vague, usually intentionally",
+"tag": "new word",
+"script": "Since Sarah did not want her husband to guess the Christmas present she had bought him, she only answered <strong>cryptically</strong> when he would ask her questions about it."
+}, {
+"word": "culminate",
+"type": "<strong>verb:</strong> reach the highest or most decisive point",
+"tag": "new word",
+"script": "Beethovens musical genius <strong>culminated</strong> in the 9th Symphony, which many consider his greatest work."
+}, {
+"word": "culpability",
+"type": "<strong>noun:</strong> a state of guilt",
+"tag": "new word",
+"script": "Since John had left his banana peel at the top of the stairwell, he accepted <strong>culpability</strong> for Marthas broken leg."
+}, {
+"word": "decorous",
+"type": "<strong>adjective:</strong> characterized by good taste in manners and conduct",
+"tag": "new word",
+"script": "Sallys parties are <strong>decorous</strong> affairs, and instead of the usual beer and music, there is tea and intellectual conversation."
+}, {
+"word": "deferential",
+"type": "<strong>adjective:</strong> showing respect",
+"tag": "new word",
+"script": "If you ever have the chance to meet the president, stand up straight and be <strong>deferential</strong>."
+}, {
+"word": "dictatorial",
+"type": "<strong>adjective:</strong> expecting unquestioning obedience; characteristic of an absolute ruler",
+"tag": "new word",
+"script": "The coach was <strong>dictatorial</strong> in his approach: no players could ever argue or question his approach."
+}, {
+"word": "didactic",
+"type": "<strong>adjective:</strong> instructive (especially excessively)",
+"tag": "new word",
+"script": "Tolstoys The Death of Ivan Ilyich is a <strong>didactic</strong> novel, instructing the reader on how to live a good life."
+}, {
+"word": "diffident",
+"type": "<strong>adjective:</strong> showing modest reserve; lacking self-confidence",
+"tag": "new word",
+"script": "As a young girl she was <strong>diffident</strong> and reserved, but now as an adult, she is confident and assertive."
+}, {
+"word": "dogmatic",
+"type": "<strong>adjective:</strong> highly opinionated, not accepting that your belief may not be correct",
+"tag": "new word",
+"script": "Bryan is <strong>dogmatic</strong> in his belief that the earth is flat, claiming that all pictures of a spherical earth are computer generated."
+}, {
+"word": "engender",
+"type": "<strong>verb:</strong> give rise to",
+"tag": "new word",
+"script": "The restrictions of the Treaty of Versailles were so severe that they <strong>engendered</strong> deep hatred and resentment in the German people."
+}, {
+"word": "entrenched",
+"type": "<strong>adjective:</strong> fixed firmly or securely",
+"tag": "new word",
+"script": "By the time we reach 60-years old, most of our habits are so <strong>entrenched</strong> that it is difficult for us to change."
+}, {
+"word": "eschew",
+"type": "<strong>verb:</strong> avoid and stay away from deliberately; stay clear of",
+"tag": "new word",
+"script": "Politicians are the masters of <strong>eschewing</strong> morals; academics are the masters of <strong>eschewing</strong> clarity."
+}, {
+"word": "exacerbate",
+"type": "<strong>verb:</strong> make worse",
+"tag": "new word",
+"script": "Her sleeplessness <strong>exacerbated</strong> her cold--when she woke up the next day, her sinuses were completely blocked."
+}, {
+"word": "fortuitous",
+"type": "<strong>adjective:</strong> occurring by happy chance; having no cause or apparent cause",
+"tag": "new word",
+"script": "Though Marias neighbor Ernie \"bumped into\" her at the Farmers Market, the encounter wasnt nearly as <strong>fortuitous</strong> as Maria was led to believe: Ernie desperately wanted to ask Maria out on a date and had been following her about town. "
+}, {
+"word": "frivolous",
+"type": "<strong>adjective:</strong> not serious in word or attitude or behavior",
+"tag": "new word",
+"script": "Compared to Juliets passionate concern for human rights, Jakes non-stop concern about football seems somewhat <strong>frivolous</strong>."
+}, {
+"word": "gainsay",
+"type": "<strong>verb:</strong> deny or contradict; speak against or oppose",
+"tag": "new word",
+"script": "I cant <strong>gainsay</strong> a single piece of evidence James has presented, but I still dont trust his conclusion."
+}, {
+"word": "gall",
+"type": "<strong>noun:</strong> the trait of being rude and impertinent",
+"tag": "new word",
+"script": "The speeding car had the <strong>gall</strong> to switch five lanes at once, run through a red light, and then cut off a police car before finally coming to a stop in front of a sea of flashing red lights.,<br/><strong>noun:</strong> feeling of deep and bitter anger and ill-will<br/>In an act of <strong>gall</strong>, Leah sent compromising photos of her ex-boyfriend to all his co-workers and professional contacts."
+}, {
+"word": "germane",
+"type": "<strong>adjective:</strong> relevant and appropriate",
+"tag": "new word",
+"script": "The professor wanted to tell the jury in detail about his new book, but the lawyer said it wasnt <strong>germane</strong> to the charges in the cases."
+}, {
+"word": "glut",
+"type": "<strong>noun:</strong> an excessive supply",
+"tag": "new word",
+"script": "The Internet offers such a <strong>glut</strong> of news related stories that many find it difficult to know which story to read first.<br/><strong>verb:</strong> supply with an excess of<br/>In the middle of economic crises, hiring managers find their inboxes <strong>glutted</strong> with resumes."
+}, {
+"word": "gossamer",
+"type": "<strong>adjective:</strong> characterized by unusual lightness and delicacy",
+"tag": "new word",
+"script": "The <strong>gossamer</strong> wings of a butterfly, which allow it to fly, are also a curse, so delicate that they are often damaged."
+}, {
+"word": "impudent",
+"type": "<strong>adjective:</strong> improperly forward or bold",
+"tag": "new word",
+"script": "In an <strong>impudent</strong> move, the defendant spoke out of order to say terribly insulting things to the judge."
+}, {
+"word": "incisive",
+"type": "<strong>adjective:</strong> having or demonstrating ability to recognize or draw fine distinctions",
+"tag": "new word",
+"script": "The lawyer had an <strong>incisive</strong> mind, able in a flash to dissect a hopelessly tangled issue and isolate the essential laws at play."
+}, {
+"word": "inexorable",
+"type": "<strong>adjective:</strong> impossible to stop or prevent",
+"tag": "new word",
+"script": "The rise of the computer was an <strong>inexorable</strong> shift in technology and culture."
+}, {
+"word": "lambast",
+"type": "<strong>verb:</strong> criticize severely or angrily",
+"tag": "new word",
+"script": "Showing no patience, the manager utterly <strong>lambasted</strong> the sales team that lost the big account."
+}, {
+"word": "mawkish",
+"type": "<strong>adjective:</strong> overly sentimental to the point that it is disgusting",
+"tag": "new word",
+"script": "The film was incredibly <strong>mawkish</strong>, introducing highly likeable characters only to have them succumb to a devastating illness by the end of the movie."
+}, {
+"word": "meticulous",
+"type": "<strong>adjective:</strong> marked by extreme care in treatment of details",
+"tag": "new word",
+"script": "The Japanese noodle maker was <strong>meticulous</strong> in making his noodles and would never let another person take over the task."
+}, {
+"word": "mitigate",
+"type": "<strong>verb:</strong> make less severe or harsh",
+"tag": "new word",
+"script": "I can only spend so much time <strong>mitigating</strong> your disagreements with your wife, and at certain point, you need to do it on your own.<br/><strong>verb:</strong> lessen the severity of an offense<br/>If it werent for the <strong>mitigating</strong> circumstances, he would have certainly lost his job."
+}, {
+"word": "obscure",
+"type": "<strong>verb:</strong> make unclear",
+"tag": "new word",
+"script": "On the Smiths drive through the Grand Canyon, Mr. Smiths big head <strong>obscured</strong> much of Mrs. Robinsons view, so that she only saw momentary patches of red rock.<br/><strong>adjective:</strong> known by only a few<br/>Many of the biggest movie stars were once <strong>obscure</strong> actors who got only bit roles in long forgotten films."
+}, {
+"word": "perfidy",
+"type": "<strong>noun:</strong> an act of deliberate betrayal; a breach of a trust",
+"tag": "new word",
+"script": "Sure, he was the best salesman in the company; but Michael had abused the trust of the firm, sharing product secrets with a competitor, and for such <strong>perfidy</strong> he was terminated."
+}, {
+"word": "platitude",
+"type": "<strong>noun:</strong> a trite or obvious remark",
+"tag": "new word",
+"script": "The professor argued that many statements regarded as wise in previous times, such as the Golden Rule, are now regarded as mere <strong>platitudes</strong>."
+}, {
+"word": "preclude",
+"type": "<strong>verb:</strong> keep from happening or arising; make impossible",
+"tag": "new word",
+"script": "The manager specified that all other gates be locked, to <strong>preclude</strong> the possibility of persons without tickets entering the arena undetected."
+}, {
+"word": "predilection",
+"type": "<strong>noun:</strong> a strong liking",
+"tag": "new word",
+"script": "Monte had a <strong>predilection</strong> for the fine things in life: Cuban cigars, 200 dollar bottles of wine, and trips to the French Riviera."
+}, {
+"word": "prescience",
+"type": "<strong>noun:</strong> the power to foresee the future",
+"tag": "new word",
+"script": "Baxters warnings about investing in technology stocks seemed like an act of <strong>prescience</strong> after the whole market declined significantly."
+}, {
+"word": "querulous",
+"type": "<strong>adjective:</strong> habitually complaining",
+"tag": "new word",
+"script": "The <strong>querulous</strong> old woman was beginning to wear down even the happier members of the staff with her ceaseless complaining."
+}, {
+"word": "recondite",
+"type": "<strong>adjective:</strong> difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+"tag": "new word",
+"script": "I found Ulysses <strong>recondite</strong> and never finished the book, waiting instead to read it with someone else so we could penetrate its meaning together."
+}, {
+"word": "reticent",
+"type": "<strong>adjective:</strong> disinclined to talk, not revealing ones thoughts ",
+"tag": "new word",
+"script": "When asked about her father, Helen lost her outward enthusiasm and became rather <strong>reticent</strong>."
+}, {
+"word": "rustic",
+"type": "<strong>adjective:</strong> characteristic of rural life; awkwardly simple and provincial",
+"tag": "new word",
+"script": "The vacation cabin had no electricity and no indoor plumbing, but despite these inconveniences, Nigel adored its <strong>rustic</strong> charm."
+}, {
+"word": "superfluous",
+"type": "<strong>adjective:</strong> serving no useful purpose",
+"tag": "new word",
+"script": "How can we hope to stay open if we dont eliminate all <strong>superfluous</strong> spending, like catered meetings and free acupuncture Tuesday?<br/><strong>adjective:</strong> more than is needed, desired, or required<br/>The third paragraph in your essay is <strong>superfluous</strong> and can be deleted."
+}, {
+"word": "torpor",
+"type": "<strong>noun:</strong> inactivity resulting from lethargy and lack of vigor or energy",
+"tag": "new word",
+"script": "After work, I was expecting my colleagues to be enthusiastic about the outing, but I found them in a state of complete <strong>torpor</strong>."
+}, {
+"word": "vociferous",
+"type": "<strong>adjective:</strong> conspicuously and offensively loud; given to vehement outcry",
+"tag": "new word",
+"script": "In giving Marcia a particular <strong>vociferous</strong> response, Paul caused people at every other table in the restaurant to turn around and look at them angrily."
+}, {
+"word": "volubility",
+"type": "<strong>noun:</strong> the quality of talking or writing easily and continuously",
+"tag": "new word",
+"script": "The professors <strong>volubility</strong> knows no bounds; he could talk through a hurricane and elaborate a point from one St. Patricks Day to the next."
+}, {
+"word": "Magoosh Blog",
+"type": "<strong>noun:</strong> A place to find valuable information including study schedules and GRE tips.  Learn more at http://magoosh.com/gre",
+"tag": "new word",
+"script": "Lena used the 1 month study schedule on the <strong>Magoosh blog</strong> to score well on the GRE."
+}]
+}, {
+"name": "Common Word III",
+"numberCard": 51,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+
+"card": [{
+"word": "abstain",
+"type": "<strong>verb:</strong> choose not to consume or take part in (particularly something enjoyable)",
+"tag": "new word",
+"script": "Considered a health nut, Jessica <strong>abstained</strong> from anything containing sugar--even chocolate."
+}, {
+"word": "ameliorate",
+"type": "<strong>verb:</strong> make something bad better",
+"tag": "new word",
+"script": "\"Three Cups of Tea\" tells the story of western man who hopes to <strong>ameliorate</strong> poverty and the lack of education in Afghanistan."
+}, {
+"word": "apathy",
+"type": "<strong>noun:</strong> an absence of emotion or enthusiasm",
+"tag": "new word",
+"script": "Widespread <strong>apathy</strong> among voters led to a very small turnout on election day."
+}, {
+"word": "ascetic",
+"type": "<strong>adjective:</strong> practicing self-denial",
+"tag": "new word",
+"script": "His <strong>ascetic</strong> life is the main reason he inspired so many followers, especially since he gave up wealth and power to live in poverty.<br/><strong>noun:</strong> one who practices great self-denial<br/>Historically, <strong>ascetics</strong> like Gandhi are often considered wise men partially because of their restraint."
+}, {
+"word": "avaricious",
+"type": "<strong>adjective:</strong> excessively greedy",
+"tag": "new word",
+"script": "Since <strong>avaricious</strong> desire is similar to gluttony or lust--sins of excess--it was listed as one of the seven deadly sins by the Catholic church."
+}, {
+"word": "belligerent",
+"type": "<strong>adjective:</strong> characteristic of one eager to fight",
+"tag": "new word",
+"script": "Tom said that he was arguing the matter purely for philosophical reasons, but his <strong>belligerent</strong> tone indicated an underlying anger about the issue."
+}, {
+"word": "circumvent",
+"type": "<strong>verb:</strong> cleverly find a way out of ones duties or obligations",
+"tag": "new word",
+"script": "One way of <strong>circumventing</strong> the GRE is to apply to a grad school that does not require GRE scores."
+}, {
+"word": "contrive",
+"type": "<strong>verb:</strong> to pull off a plan or scheme, usually through skill or trickery",
+"tag": "new word",
+"script": "Despite a low GPA, he <strong>contrived</strong> to get into college, going so far as to write his own glowing letters of recommendation."
+}, {
+"word": "delineate",
+"type": "<strong>verb:</strong> describe in detail",
+"tag": "new word",
+"script": "After a brief summary of proper swimming technique, the coach <strong>delineated</strong> the specifics of each stroke, spending 30 minutes alone on the backstroke."
+}, {
+"word": "denote",
+"type": "<strong>verb:</strong> be a sign or indication of; have as a meaning",
+"tag": "new word",
+"script": "Even if the text is not visible, the red octagon <strong>denotes</strong> \"stop\" to all motorists in America."
+}, {
+"word": "derivative",
+"type": "<strong>adjective:</strong> not original but drawing strongly on something already in existence, especially in reference to a creative product (e.g. music, writing, poetry etc.).",
+"tag": "new word",
+"script": "Because the movies were utterly <strong>derivative</strong> of other popular movies, they did well at the box office."
+}, {
+"word": "derive",
+"type": "<strong>verb:</strong> come from; be connected by a relationship of blood, for example",
+"tag": "new word",
+"script": "Many words in the English language are <strong>derived</strong> from Latin, including the word \"<strong>derive</strong>.\"<br/><strong>verb:</strong> reason by deduction; establish by deduction<br/>From the multiple set of footprints in the living room, the investigator <strong>derived</strong> an important clue: Sheila was not alone in the room at the time of the murder."
+}, {
+"word": "disaffected",
+"type": "<strong>adjective:</strong> disworded as toward authority",
+"tag": "new word",
+"script": "After watching his superior take rations from the soldiers, he quickly became <strong>disaffected</strong> and rebelled."
+}, {
+"word": "eclectic",
+"type": "<strong>adjective:</strong> comprised of a variety of styles",
+"tag": "new word",
+"script": "Joey was known for his <strong>eclectic</strong> tastes in music, one moment dancing to disco the next \"air conducting\" along to Beethovens 9th symphony."
+}, {
+"word": "elucidate",
+"type": "<strong>verb:</strong> make clearer and easier to understand",
+"tag": "new word",
+"script": "Youtube is great place to learn just about anything--an expert <strong>elucidates</strong> finer points so that even a complete novice can learn."
+}, {
+"word": "eminent",
+"type": "<strong>adjective:</strong> standing above others in quality or position",
+"tag": "new word",
+"script": "Shakespeare is an <strong>eminent</strong> author in the English language, but I find his writing uninteresting and melodramatic."
+}, {
+"word": "ephemeral",
+"type": "<strong>adjective:</strong> lasting a very short time",
+"tag": "new word",
+"script": "The lifespan of a mayfly is <strong>ephemeral</strong>, lasting from a few hours to a couple of days."
+}, {
+"word": "fallacious",
+"type": "<strong>adjective:</strong> of a belief that is based on faulty reasoning",
+"tag": "new word",
+"script": "The widespread belief that Eskimos have forty different words for snow is <strong>fallacious</strong>, based on one false report."
+}, {
+"word": "forlorn",
+"type": "<strong>adjective:</strong> marked by or showing hopelessness",
+"tag": "new word",
+"script": "After her third pet dog died, Marcia was simply <strong>forlorn</strong>: this time even the possibility of buying a new dog no longer held any joy."
+}, {
+"word": "frustrate",
+"type": "<strong>verb:</strong> hinder or prevent (the efforts, plans, or desires) of",
+"tag": "new word",
+"script": "I thought I would finish writing the paper by lunchtime, but a number of urgent interruptions served to <strong>frustrate</strong> my plan."
+}, {
+"word": "guileless",
+"type": "<strong>adjective:</strong> free of deceit",
+"tag": "new word",
+"script": "At first I thought my niece was <strong>guileless</strong>, but I then found myself buying her ice cream every time we passed a shop."
+}, {
+"word": "haughty",
+"type": "<strong>adjective:</strong> having or showing arrogant superiority to and disdain of those one views as unworthy",
+"tag": "new word",
+"script": "The <strong>haughty</strong> manager didnt believe that any of his subordinates could ever have an insight as brilliant as his own."
+}, {
+"word": "heretic",
+"type": "<strong>noun:</strong> a person who holds unorthodox opinions in any field (not merely religion)",
+"tag": "new word",
+"script": "Though everybody at the gym told Mikey to do cardio before weights, Mikey was a <strong>heretic</strong> and always did the reverse."
+}, {
+"word": "immutable",
+"type": "<strong>adjective:</strong> not able to be changed",
+"tag": "new word",
+"script": "Taxes are one of the <strong>immutable</strong> laws of the land, so there is no use arguing about paying them."
+}, {
+"word": "incongruous",
+"type": "<strong>adjective:</strong> lacking in harmony or compatibility or appropriateness",
+"tag": "new word",
+"script": "The vast economic inequality of modern society is <strong>incongruous</strong> with Americas ideals."
+}, {
+"word": "insidious",
+"type": "<strong>adjective:</strong> working in a subtle but destructive way",
+"tag": "new word",
+"script": "Plaque is <strong>insidious</strong>: we cannot see it, but each day it eats away at our enamel, causing cavities and other dental problems."
+}, {
+"word": "itinerant",
+"type": "<strong>adjective:</strong> traveling from place to place to work",
+"tag": "new word",
+"script": "Doctors used to be <strong>itinerant</strong>, traveling between patients homes."
+}, {
+"word": "jingoism",
+"type": "<strong>noun:</strong> fanatical patriotism",
+"tag": "new word",
+"script": "North Korea maintains intense control over its population through a combination of <strong>jingoism</strong> and cult of personality."
+}, {
+"word": "jubilant",
+"type": "<strong>adjective:</strong> full of high-spirited delight because of triumph or success",
+"tag": "new word",
+"script": "My hardwork paid off, and I was <strong>jubilant</strong> to receive a perfect score on the GRE."
+}, {
+"word": "juxtapose",
+"type": "<strong>verb:</strong> place side by side for contrast",
+"tag": "new word",
+"script": "The appeal of her paintings comes from a classical style which is <strong>juxtaposed</strong> with modern themes."
+}, {
+"word": "languid",
+"type": "<strong>adjective:</strong> not inclined towards physical exertion or effort; slow and relaxed",
+"tag": "new word",
+"script": "As the sun beat down and the temperature climbed higher, we spent a <strong>languid</strong> week lying around the house."
+}, {
+"word": "magnanimous",
+"type": "<strong>adjective:</strong> noble and generous in spirit, especially towards a rival or someone less powerful",
+"tag": "new word",
+"script": "He was a great sportsman: in defeat he was complimentary and in victory he was <strong>magnanimous</strong>."
+}, {
+"word": "mollify",
+"type": "<strong>verb:</strong> to make someone angry less angry; placate",
+"tag": "new word",
+"script": "In the morning, Janine was unable to <strong>mollify</strong> Harry, if he happened to become angry, unless hed had his cup of coffee."
+}, {
+"word": "negligible",
+"type": "<strong>adjective:</strong> so small as to be meaningless; insignificant",
+"tag": "new word",
+"script": "The GRE tests cumulative knowledge, so if you cram the night before it is, at best, likely to only have a <strong>negligible</strong> impact on your score."
+}, {
+"word": "panache",
+"type": "<strong>noun:</strong> distinctive and showy elegance",
+"tag": "new word",
+"script": "Jim, with his typical <strong>panache</strong>, came to the wedding reception with a top hat and cane."
+}, {
+"word": "precocious",
+"type": "<strong>adjective:</strong> characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)",
+"tag": "new word",
+"script": "Though only seven years old, she was a <strong>precocious</strong> chess prodigy, able to beat players twice her age."
+}, {
+"word": "quotidian",
+"type": "<strong>adjective:</strong> found in the ordinary course of events",
+"tag": "new word",
+"script": "Phil gets so involved thinking about Aristotles arguments that he totally forgets <strong>quotidian</strong> concerns, such as exercising and eating regularly."
+}, {
+"word": "refractory",
+"type": "<strong>adjective:</strong> stubbornly resistant to authority or control",
+"tag": "new word",
+"script": "Used to studious high school students, Martha was unprepared for the <strong>refractory</strong> Kindergarteners who neither sat still nor listened to a single word she said."
+}, {
+"word": "rudimentary",
+"type": "<strong>adjective:</strong> being in the earliest stages of development; being or involving basic facts or principles",
+"tag": "new word",
+"script": "I would love to be able to present a fully polished proposal to the board, but right now, our plans for the product are still in the most <strong>rudimentary</strong> stages."
+}, {
+"word": "spurious",
+"type": "<strong>adjective:</strong> plausible but false",
+"tag": "new word",
+"script": "When listening to a politician speak, it is hard to distinguish the <strong>spurious</strong> claims from the authentic ones."
+}, {
+"word": "staunch",
+"type": "<strong>adjective:</strong> firm and dependable especially in loyalty",
+"tag": "new word",
+"script": "No longer a <strong>staunch</strong> supporter of the movement, Todd now will openly question whether its goals are worthwhile."
+}, {
+"word": "subsume",
+"type": "<strong>verb:</strong> contain or include",
+"tag": "new word",
+"script": "The rogue wave quickly <strong>subsumed</strong> the pier and boardwalk, destroying everything in its path.<br/><strong>verb:</strong> consider (an instance of something) as part of a general rule or principle<br/>Don Quixote of La Mancha <strong>subsumes</strong> all other modern novels, demonstrating modern literary devices and predating even the idea of a postmodern, metanarrative."
+}, {
+"word": "supplant",
+"type": "<strong>verb:</strong> take the place or move into the position of",
+"tag": "new word",
+"script": "For many, a cell phone has <strong>supplanted</strong> a traditional phone; in fact, most 20-somethings dont even have a traditional phone anymore. "
+}, {
+"word": "tantamount",
+"type": "<strong>adjective:</strong> being essentially equal to something",
+"tag": "new word",
+"script": "In many situations, remaining silent is <strong>tantamount</strong> to admitting guilt, so speak to prove your innocence."
+}, {
+"word": "tenacious",
+"type": "<strong>adjective:</strong> stubbornly unyielding",
+"tag": "new word",
+"script": "Even the most <strong>tenacious</strong> advocates for gun ownership must admit some of the dangers that firearms present."
+}, {
+"word": "travesty",
+"type": "<strong>noun:</strong> an absurd presentation of something; a mockery",
+"tag": "new word",
+"script": "What I expected to be an intelligent, nuanced historical documentary turned out to be a poorly-produced <strong>travesty</strong> of the form."
+}, {
+"word": "treacherous",
+"type": "<strong>adjective:</strong> tending to betray",
+"tag": "new word",
+"script": "Even though Jesse James was an outlaw, his killer, Robert Ford, is remembered more for his <strong>treacherous</strong> actions than for eliminating a criminal and murderer.<br/><strong>adjective:</strong> dangerously unstable and unpredictable<br/>The bridge built from twine and vine is <strong>treacherous</strong> to walk across, and so I think I will stay put right here."
+}, {
+"word": "unequivocal",
+"type": "<strong>adjective:</strong> admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion",
+"tag": "new word",
+"script": "The Presidents first statement on the subject was vague and open to competing interpretations, so when he spoke to Congress about the same subject later, he was careful to make his position completely <strong>unequivocal</strong>."
+}, {
+"word": "vehement",
+"type": "<strong>adjective:</strong> marked by extreme intensity of emotions or convictions",
+"tag": "new word",
+"script": "While the other employees responded to the bad news in a measured way, Andrew responded in a <strong>vehement</strong> manner, tipping over his desk and shouting at the top of his lungs."
+}, {
+"word": "vilify",
+"type": "<strong>verb:</strong> spread negative information about",
+"tag": "new word",
+"script": "Todd was noble after the divorce, choosing to say only complimentary things about Barbara, but Barbara did not hesitate to <strong>vilify</strong> Todd."
+}, {
+"word": "Magoosh Free Trial",
+"type": "<strong>noun:</strong> A sample of lesson videos and practice questions to see if Magoosh is right for you.  Learn more at http://gre.magoosh.com",
+"tag": "new word",
+"script": "Rachel tried the <strong>Magoosh free trial</strong> to determine if the premium Magoosh service was worth purchasing."
+}]
+}, {
+"name": "Common Word IV",
+"numberCard": 51,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "aberrant",
+"type": "<strong>adjective:</strong> markedly different from an accepted norm",
+"tag": "new word",
+"script": "When the financial director started screaming and throwing food at his co-workers, the police had to come in to deal with his <strong>aberrant</strong> behavior."
+}, {
+"word": "abstruse",
+"type": "<strong>adjective:</strong> difficult to understand; incomprehensible",
+"tag": "new word",
+"script": "Physics textbooks can seem so <strong>abstruse</strong> to the uninitiated that readers feel as though they are looking at hieroglyphics."
+}, {
+"word": "acerbic",
+"type": "<strong>adjective:</strong> harsh in tone",
+"tag": "new word",
+"script": "Most movie critics are <strong>acerbic</strong> towards summer blockbusters, often referring to them as garbage."
+}, {
+"word": "adamant",
+"type": "<strong>adjective:</strong> refusing to change ones mind",
+"tag": "new word",
+"script": "Civil rights icon Rosa Parks will forever be remembered for <strong>adamantly</strong> refusing to give up her seat on a public bus--even after the bus driver insisted, she remained rooted in place."
+}, {
+"word": "admonitory",
+"type": "<strong>adjective:</strong> serving to warn; expressing reproof or reproach especially as a corrective",
+"tag": "new word",
+"script": "At the assembly, the high school vice-principal gave the students an <strong>admonitory</strong> speech, warning them of the many risks and dangers of prom night."
+}, {
+"word": "apocryphal",
+"type": "<strong>adjective:</strong> being of questionable authenticity",
+"tag": "new word",
+"script": "The web is notorious for sandwiching <strong>apocryphal</strong> stories between actual news."
+}, {
+"word": "blatant",
+"type": "<strong>adjective:</strong> without any attempt at concealment; completely obvious",
+"tag": "new word",
+"script": "Allen was often punished in school for <strong>blatantly</strong> disrespecting teachers."
+}, {
+"word": "bumbling",
+"type": "<strong>adjective:</strong> lacking physical movement skills, especially with the hands",
+"tag": "new word",
+"script": "Within a week of starting, the <strong>bumbling</strong> new waiter was unceremoniously fired."
+}, {
+"word": "burgeon",
+"type": "<strong>verb:</strong> grow and flourish",
+"tag": "new word",
+"script": "Chinas housing market is <strong>burgeoning</strong>, but some predict that the growth is merely a bubble and will burst much like the U.S. real estate bubble of 2008."
+}, {
+"word": "confound",
+"type": "<strong>verb:</strong> be confusing or perplexing to",
+"tag": "new word",
+"script": "Though Harry loved numbers, he found calculus <strong>confounding</strong>.<br/><strong>verb:</strong> mistake one thing for another<br/>Americans often <strong>confound</strong> sweet potatoes with yams, and refer to both vegetables by the same name."
+}, {
+"word": "construe",
+"type": "<strong>verb:</strong> interpreted in a particular way",
+"tag": "new word",
+"script": "The authors inability to take a side on the issue was <strong>construed</strong> by both his opponents and supporters as a sign of weakness."
+}, {
+"word": "contingent",
+"type": "<strong>noun:</strong> a gathering of persons representative of some larger group",
+"tag": "new word",
+"script": "A small <strong>contingent</strong> of those loyal to the king have gathered around the castle to defend it.<br/><strong>adjective:</strong> dependent on (usually used with upon)<br/>Whether the former world champions can win again this year is <strong>contingent</strong> upon none of its star players getting injured."
+}, {
+"word": "copious",
+"type": "<strong>adjective:</strong> in abundant supply",
+"tag": "new word",
+"script": "In midsummer, there are <strong>copious</strong> popsicle stands at the beach; in the winter, there are none."
+}, {
+"word": "decorum",
+"type": "<strong>noun:</strong> propriety in manners and conduct",
+"tag": "new word",
+"script": "\"You will obey the rules of <strong>decorum</strong> for this courtroom or spend the night in a jail cell,\" said the judge to the prosecutor."
+}, {
+"word": "denigrate",
+"type": "<strong>verb:</strong> charge falsely or with malicious intent; attack the good name and reputation of someone",
+"tag": "new word",
+"script": "Count Rumford <strong>denigrated</strong> the new theory of heat, demonstrating that it was wholly inadequate to explain the observations."
+}, {
+"word": "discrete",
+"type": "<strong>adjective:</strong> constituting a separate entity or part",
+"tag": "new word",
+"script": "What was once known as Czechoslovakia has since split into two <strong>discrete</strong>, independent nations."
+}, {
+"word": "eradicate",
+"type": "<strong>verb:</strong> to completely destroy",
+"tag": "new word",
+"script": "I tried <strong>eradicating</strong> the mosquitos in my apartment with a rolled up newspaper, but there were too many of them."
+}, {
+"word": "espouse",
+"type": "<strong>verb:</strong> to adopt or support an idea or cause",
+"tag": "new word",
+"script": "As a college student, Charlie <strong>espoused</strong> Marxism, growing his beard out and railing against the evils of the free-market."
+}, {
+"word": "exacting",
+"type": "<strong>adjective:</strong> requiring and demanding accuracy",
+"tag": "new word",
+"script": "Though his childhood piano teacher was so <strong>exacting</strong>, Max is thankful now, as a professional pianist."
+}, {
+"word": "exalt",
+"type": "<strong>verb:</strong> praise or glorify",
+"tag": "new word",
+"script": "The teenagers <strong>exalted</strong> the rock star, covering their bedrooms with posters of him."
+}, {
+"word": "exonerate",
+"type": "<strong>verb:</strong> pronounce not guilty of criminal charges",
+"tag": "new word",
+"script": "The document clearly indicated that Nick was out of the state at the time of the crime, and so served to <strong>exonerate</strong> him of any charges."
+}, {
+"word": "expound",
+"type": "<strong>verb:</strong> add details or explanation; clarify the meaning; state in depth",
+"tag": "new word",
+"script": "The CEO refused to <strong>expound</strong> on the decision to merge our department with another one, and so I quit."
+}, {
+"word": "forthcoming",
+"type": "<strong>adjective:</strong> available when required or as promised",
+"tag": "new word",
+"script": "The President announced that the senators were about to reach a compromise, and that he was eager to read the <strong>forthcoming</strong> details of the bill.<br/><strong>adjective:</strong> at ease in talking to others<br/>As a husband, Larry was not <strong>forthcoming</strong>: if Jill didnt demand to know details, Larry would never share them with her."
+}, {
+"word": "hackneyed",
+"type": "<strong>adjective:</strong> lacking significance through having been overused",
+"tag": "new word",
+"script": "Cheryl rolled her eyes when she heard the lecturers <strong>hackneyed</strong> advice to \"be true to yourself.\""
+}, {
+"word": "iconoclastic",
+"type": "<strong>adjective:</strong> defying tradition or convention",
+"tag": "new word",
+"script": "Jackson Pollack was an <strong>iconoclastic</strong> artist, totally breaking with tradition by splashing paint on a blank canvas."
+}, {
+"word": "idiosyncrasy",
+"type": "<strong>noun:</strong> a behavioral attribute that is distinctive and peculiar to an individual",
+"tag": "new word",
+"script": "Peggys numerous <strong>idiosyncrasies</strong> include wearing mismatched shoes, laughing loudly to herself, and owning a pet aardvark."
+}, {
+"word": "ignoble",
+"type": "<strong>adjective:</strong> dishonorable",
+"tag": "new word",
+"script": "In 1919, the World Series was rigged--an <strong>ignoble</strong> act which baseball took decades to recover from."
+}, {
+"word": "implacable",
+"type": "<strong>adjective:</strong> incapable of making less angry or hostile",
+"tag": "new word",
+"script": "Win or lose, the coach was always <strong>implacable</strong>, never giving the athletes an easy practice or a break."
+}, {
+"word": "implausible",
+"type": "<strong>adjective:</strong> describing a statement that is not believable",
+"tag": "new word",
+"script": "The teacher found it <strong>implausible</strong> that the student was late to school because he had been kidnapped by outlaws on horseback."
+}, {
+"word": "incorrigible",
+"type": "<strong>adjective:</strong> impervious to correction by punishment",
+"tag": "new word",
+"script": "Tom Sawyer seems like an <strong>incorrigible</strong> youth until Huck Finn enters the novel; even Sawyer cant match his fierce individual spirit."
+}, {
+"word": "indifference",
+"type": "<strong>noun:</strong> the trait of seeming not to care",
+"tag": "new word",
+"script": "In an effort to fight <strong>indifference</strong>, the president of the college introduced a new, stricter grading system."
+}, {
+"word": "ingratiate",
+"type": "<strong>verb:</strong> gain favor with somebody by deliberate efforts",
+"tag": "new word",
+"script": "Even though Tom didnt like his new boss, he decided to <strong>ingratiate</strong> himself to her in order to advance his career."
+}, {
+"word": "intransigent",
+"type": "<strong>adjective:</strong> unwilling to change ones beliefs or course of action",
+"tag": "new word",
+"script": "Despite many calls for mercy, the judge remained <strong>intransigent</strong>, citing strict legal precedence."
+}, {
+"word": "largess",
+"type": "<strong>noun:</strong> extreme generosity and giving",
+"tag": "new word",
+"script": "Uncle Frank was known for his <strong>largess</strong>, so his nephew was sad when he did not receive a present for his birthday."
+}, {
+"word": "laudable",
+"type": "<strong>adjective:</strong> worthy of high praise",
+"tag": "new word",
+"script": "To say that Gandhis actions were <strong>laudable</strong> is the greatest understatement; he overthrew an empire without violence."
+}, {
+"word": "myopic",
+"type": "<strong>adjective:</strong> lacking foresight or imagination",
+"tag": "new word",
+"script": "The company ultimately went out of business because the <strong>myopic</strong> managers couldnt predict the changes in their industry."
+}, {
+"word": "opaque",
+"type": "<strong>adjective:</strong> not clearly understood or expressed",
+"tag": "new word",
+"script": "The meaning of the professors new research was <strong>opaque</strong> to most people, so no one asked any questions."
+}, {
+"word": "ostentatious",
+"type": "<strong>adjective:</strong> intended to attract notice and impress others; tawdry or vulgar",
+"tag": "new word",
+"script": "Matt wanted to buy stone lions for front of the house, but Cynthia convinced him that such a display would be too <strong>ostentatious</strong> for a modest house in an unassuming neighborhood."
+}, {
+"word": "pedantic",
+"type": "<strong>adjective:</strong> marked by a narrow focus on or display of learning especially its trivial aspects",
+"tag": "new word",
+"script": "Professor Thompson was regarded as an expert in his field, but his lectures were utterly <strong>pedantic</strong>, focused on rigorous details of the most trivial conventions in the field."
+}, {
+"word": "petulant",
+"type": "<strong>adjective:</strong> easily irritated or annoyed",
+"tag": "new word",
+"script": "Although the three year old was often described as mature for his age, he was <strong>petulant</strong> and whiny whenever his father forgot to remove the crust from his sandwiches."
+}, {
+"word": "pragmatic",
+"type": "<strong>adjective:</strong> guided by practical experience and observation rather than theory",
+"tag": "new word",
+"script": "Rather than make a philosophical appeal to the Congressmen, the Speaker decided to take a far more <strong>pragmatic</strong> approach, making small side-deals that would add votes to his bill."
+}, {
+"word": "provincial",
+"type": "<strong>adjective:</strong> characteristic of a limited perspective; not fashionable or sophisticated",
+"tag": "new word",
+"script": "Maggies enthusiasm about her high school teams seemed <strong>provincial</strong> to her college classmates, all of whom were following a nationally ranked college team."
+}, {
+"word": "pundit",
+"type": "<strong>noun:</strong> someone who has been admitted to membership in a scholarly field",
+"tag": "new word",
+"script": "Steven Pinkers credentials are unquestioned as a <strong>pundit</strong>; he has taught at MIT and Stanford, teaches at Harvard, and has published a number of influential books on cognition, language, and psychology."
+}, {
+"word": "reconcile",
+"type": "<strong>verb:</strong> make (one thing) compatible with (another)",
+"tag": "new word",
+"script": "Peggy was unable to <strong>reconcile</strong> her kind friend Jane with the cruel and merciless character Jane played on television."
+}, {
+"word": "refute",
+"type": "<strong>verb:</strong> prove to be false or incorrect",
+"tag": "new word",
+"script": "No one could <strong>refute</strong> his theories or propositions, and that is why he was esteemed by all his colleagues in the philosophy department."
+}, {
+"word": "soporific",
+"type": "<strong>adjective:</strong> inducing mental lethargy; sleep inducing",
+"tag": "new word",
+"script": "Although the professor is brilliant, his bland monotone gives his lectures a <strong>soporific</strong> effect."
+}, {
+"word": "temperance",
+"type": "<strong>noun:</strong> the trait of avoiding excesses",
+"tag": "new word",
+"script": "Welles wasnt known for his <strong>temperance</strong>--he usually ate enough for two and drank enough for three."
+}, {
+"word": "tortuous",
+"type": "<strong>adjective:</strong> marked by repeated turns and bends; not straightforward",
+"tag": "new word",
+"script": "Because the logic behind McMahons side of the debate was so <strong>tortuous</strong>, his audience came out either completely confused or, worse, feeling theyd been tricked."
+}, {
+"word": "underscore",
+"type": "<strong>verb:</strong> give extra weight to (a communication)",
+"tag": "new word",
+"script": "While the hiking instructor agreed that carrying a first aid kit could be a good idea under certain circumstances, he <strong>underscored</strong> the importance of carrying enough water."
+}, {
+"word": "unscrupulous",
+"type": "<strong>adjective:</strong> without scruples or principles",
+"tag": "new word",
+"script": "In the courtroom, the lawyer was <strong>unscrupulous</strong>, using every manner of deceit and manipulation to secure a victory for himself."
+}, {
+"word": "Magoosh Practice Exams",
+"type": "<strong>noun:</strong> Determine how youd do on an actual GRE exam by taking a practice exam.  Learn more at http://gre.magoosh.com",
+"tag": "new word",
+"script": "<strong>Magoosh practice exams</strong> enabled Margarette to get a sense of what taking the GRE on test-day would be like."
+}]
+}, {
+"name": "Common Word V",
+"numberCard": 51,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "accolade",
+"type": "<strong>noun:</strong> an award or praise granted as a special honor",
+"tag": "new word",
+"script": "Jean Paul-Sartre was not a fan of <strong>accolades</strong>, and as such, he refused to accept the Nobel Prize for Literature in 1964."
+}, {
+"word": "admonish",
+"type": "<strong>verb:</strong> to warn strongly, even to the point of reprimanding",
+"tag": "new word",
+"script": "Before the concert began, security personnel <strong>admonished</strong> the crowd not to come up on stage during the performance."
+}, {
+"word": "antithetical",
+"type": "<strong>adjective:</strong> sharply contrasted in character or purpose",
+"tag": "new word",
+"script": "His deep emotional involvement with these ideas is, in fact, <strong>antithetical</strong> to the detachment Buddhism preaches."
+}, {
+"word": "arbitrary",
+"type": "<strong>adjective:</strong> based on a random, groundless decision",
+"tag": "new word",
+"script": "One of the <strong>arbitrary</strong> decrees in place during the emperors rule is that all citizens pay him weekly homage at his palace."
+}, {
+"word": "arcane",
+"type": "<strong>adjective:</strong> requiring secret or mysterious knowledge",
+"tag": "new word",
+"script": "Most college fraternities are known for <strong>arcane</strong> rituals that those hoping to join the fraternity must learn."
+}, {
+"word": "audacity",
+"type": "<strong>noun:</strong> aggressive boldness in social situations",
+"tag": "new word",
+"script": "Mike was upset at the man who not only cut in front of him at the ticket counter but also had the <strong>audacity</strong> to cut in front of him at the bathroom line."
+}, {
+"word": "austere",
+"type": "<strong>adjective:</strong> practicing self-denial",
+"tag": "new word",
+"script": "His lifestyle of revelry and luxurious excess could hardly be called <strong>austere</strong>.<br/><strong>adjective:</strong> unadorned in style or appearance < br / > Late Soviet architecture although remaining largely < strong > austere < /strong>, moved into experimental territory that employed previously unused shapes and structures.<br/ > < strong > adjective: < /strong> harsh in manner of temperament<br/ > The principal of my elementary school was a cold,< strong > austere < /strong> woman; I could never understand why she chose to work with children."
+}, {
+"word": "brazen",
+"type": "<strong>adjective:</strong> unrestrained by convention or propriety",
+"tag": "new word",
+"script": "Their large \"donations\" to the local police department gave the drug cartel the <strong>brazen</strong> confidence to do their business out in the open."
+}, {
+"word": "circumscribe",
+"type": "<strong>verb:</strong> restrict or confine",
+"tag": "new word",
+"script": "Their tour of South America was <strong>circumscribed</strong> so that they saw only popular destinations and avoided the dangerous parts of cities."
+}, {
+"word": "constituent",
+"type": "<strong>noun:</strong> a citizen who is represented in a government by officials for whom he or she votes",
+"tag": "new word",
+"script": "The mayors <strong>constituents</strong> are no longer happy with her performance and plan to vote for another candidate in the upcoming election.<br/><strong>noun:</strong> an abstract part of something<br/>The <strong>constituents</strong> of the metal alloy are nickel, copper, and tin."
+}, {
+"word": "dilettante",
+"type": "<strong>noun:</strong> an amateur who engages in an activity without serious intentions and who pretends to have knowledge",
+"tag": "new word",
+"script": "Fred has no formal medical training; while he likes to claim authority on medical issues, he is little more than a <strong>dilettante</strong>."
+}, {
+"word": "foment",
+"type": "<strong>verb:</strong> try to stir up public opinion",
+"tag": "new word",
+"script": "After having his pay cut, Phil spread vicious rumors about his boss, hoping to <strong>foment</strong> a general feeling of disword."
+}, {
+"word": "garrulous",
+"type": "<strong>adjective:</strong> full of trivial conversation",
+"tag": "new word",
+"script": "Lynne was <strong>garrulous</strong>: once, she had a fifteen minute conversation with a stranger before she realized the woman didnt speak English."
+}, {
+"word": "gauche",
+"type": "<strong>adjective:</strong> lacking social polish",
+"tag": "new word",
+"script": "Sylvester says the most <strong>gauche</strong> things, such as telling a girl he liked that she was much prettier when she wore makeup."
+}, {
+"word": "haphazard",
+"type": "<strong>adjective:</strong> marked by great carelessness; dependent upon or characterized by chance",
+"tag": "new word",
+"script": "Many golf courses are designed with great care, but the greens on the county golf course seem entirely <strong>haphazard</strong>."
+}, {
+"word": "hegemony",
+"type": "<strong>noun:</strong> dominance over a certain area",
+"tag": "new word",
+"script": "Until the Spanish Armada was defeated in 1587, Spain had <strong>hegemony</strong> over the seas, controlling waters stretching as far as the Americas."
+}, {
+"word": "inimical",
+"type": "<strong>adjective:</strong> hostile (usually describes conditions or environments)",
+"tag": "new word",
+"script": "Venus, with a surface temperature that would turn rubber to liquid, is <strong>inimical</strong> to any form of life."
+}, {
+"word": "inscrutable",
+"type": "<strong>adjective:</strong> not easily understood; unfathomable",
+"tag": "new word",
+"script": "His speech was so dense and confusing that many in the audience found it <strong>inscrutable</strong>."
+}, {
+"word": "insolent",
+"type": "<strong>adjective:</strong> rude and arrogant",
+"tag": "new word",
+"script": "Lilian could not help herself from being <strong>insolent</strong>, commenting that the Queens shoes were showing too much toe."
+}, {
+"word": "intrepid",
+"type": "<strong>adjective:</strong> fearless",
+"tag": "new word",
+"script": "Captain Ahab was an <strong>intrepid</strong> captain whose reckless and fearless style ultimately lead to his downfall."
+}, {
+"word": "inveterate",
+"type": "<strong>adjective:</strong> habitual",
+"tag": "new word",
+"script": "He is an <strong>inveterate</strong> smoker and has told his family and friends that there is no way he will ever quit."
+}, {
+"word": "irrevocable",
+"type": "<strong>adjective:</strong> incapable of being retracted or revoked",
+"tag": "new word",
+"script": "Once you enter your plea to the court, it is <strong>irrevocable</strong> so think carefully about what you will say."
+}, {
+"word": "lionize",
+"type": "<strong>verb:</strong> assign great social importance to",
+"tag": "new word",
+"script": "Students in the U.S. learn to <strong>lionize</strong> Jefferson, Franklin, and Washington because they are the founding fathers of the nation."
+}, {
+"word": "munificent",
+"type": "<strong>adjective:</strong> very generous",
+"tag": "new word",
+"script": "Uncle Charley was known for his <strong>munificence</strong>, giving all seven of his nephews lavish Christmas presents each year."
+}, {
+"word": "myriad",
+"type": "<strong>noun:</strong> a large indefinite number",
+"tag": "new word",
+"script": "There are a <strong>myriad</strong> of internet sites hawking pills that claim to boost energy for hours on end."
+}, {
+"word": "obsequious",
+"type": "<strong>adjective:</strong> attentive in an ingratiating or servile manner; attempting to win favor from influential people by flattery",
+"tag": "new word",
+"script": "The <strong>obsequious</strong> waiter did not give the couple a moments peace all through the meal, constantly returning to their table to refill their water glasses and to tell them what a handsome pair they made."
+}, {
+"word": "ostracize",
+"type": "<strong>verb:</strong> exclude from a community or group",
+"tag": "new word",
+"script": "Later in his life, Leo Tolstoy was <strong>ostracized</strong> from the Russian Orthodox Church for his writings that contradicted church doctrine."
+}, {
+"word": "pedestrian",
+"type": "<strong>adjective:</strong> lacking imagination",
+"tag": "new word",
+"script": "While Nan was always engaged in philosophical speculation, her brother was occupied with far more <strong>pedestrian</strong> concerns: how to earn a salary and run a household."
+}, {
+"word": "pernicious",
+"type": "<strong>adjective:</strong> exceedingly harmful; working or spreading in a hidden and injurious way",
+"tag": "new word",
+"script": "The most successful viruses are <strong>pernicious</strong>: an infected person may feel perfectly healthy for several months while incubating and spreading the virus."
+}, {
+"word": "poignant",
+"type": "<strong>adjective:</strong> emotionally touching",
+"tag": "new word",
+"script": "After the Montagues and Capulets discover the dead bodies of Romeo and Juliet,  in the plays most <strong>poignant</strong> moment, the two griefstricken families agree to end their feud once and for all."
+}, {
+"word": "precipitous",
+"type": "<strong>adjective:</strong> done with very great haste and without due deliberation",
+"tag": "new word",
+"script": "Instead of calling his financial advisor, Harold acted <strong>precipitously</strong>, buying 4,000 shares of the latest \"hot\" stock, only to find out that the company had a history of inflating its year end numbers.  "
+}, {
+"word": "prodigious",
+"type": "<strong>adjective:</strong> so great in size or force or extent as to elicit awe",
+"tag": "new word",
+"script": "After the relatively small homerun totals in the \"dead ball\" era, Babe Ruths homerun totals were truly <strong>prodigious</strong>: every year, he set a new all-time record."
+}, {
+"word": "prolific",
+"type": "<strong>adjective:</strong> intellectually productive",
+"tag": "new word",
+"script": "Schubert was the most <strong>prolific</strong> composer, producing hundreds of hours of music before he died at the age of 31."
+}, {
+"word": "propitious",
+"type": "<strong>adjective:</strong> presenting favorable circumstances; likely to result in or show signs of success",
+"tag": "new word",
+"script": "The childs heartbeat is still weak, but I am seeing many <strong>propitious</strong> signs and I think that she may be healing."
+}, {
+"word": "ravenous",
+"type": "<strong>adjective:</strong> extremely hungry; devouring or craving food in great quantities",
+"tag": "new word",
+"script": "John didnt eat much at all during the week he had the flu, so now that he is regaining his health, its not surprising that he has a <strong>ravenous</strong> appetite."
+}, {
+"word": "repudiate",
+"type": "<strong>verb:</strong> reject as untrue or unfounded",
+"tag": "new word",
+"script": "Many in the public believed the rumors of a UFO crash outside town, so the chief of police did everything he could to <strong>repudiate</strong> the rumors."
+}, {
+"word": "rescind",
+"type": "<strong>verb:</strong> cancel officially",
+"tag": "new word",
+"script": "The mans drivers license was <strong>rescinded</strong> after his tenth car accident, which meant he would never be allowed to legally drive again."
+}, {
+"word": "resurgent",
+"type": "<strong>adjective:</strong> rising again as to new life and vigor",
+"tag": "new word",
+"script": "The team sank to fourth place in June, but is now <strong>resurgent</strong> and about to win the division."
+}, {
+"word": "reverent",
+"type": "<strong>adjective:</strong> feeling or showing profound respect or veneration",
+"tag": "new word",
+"script": "The professor could speak objectively about the other composers, but he always lectured about Brahms with a particularly <strong>reverent</strong> air, unable to offer a single criticism of his compositions."
+}, {
+"word": "sanction",
+"type": "<strong>verb:</strong> give authority or permission to",
+"tag": "new word",
+"script": "The authorities have <strong>sanctioned</strong> the use of the wilderness reserve for public use; many expect to see hikers and campers enjoying the park in the coming months.<br/><strong>noun:</strong> a legal penalty for a forbidden action<br/>International <strong>sanctions</strong> have been placed on certain shipping lanes that were thought to be involved in human trafficking."
+}, {
+"word": "scrupulous",
+"type": "<strong>adjective:</strong> characterized by extreme care and great effort",
+"tag": "new word",
+"script": "Because of his <strong>scrupulous</strong> nature, Mary put him in charge of numbering and cataloging the entire collection of rare stamps.<br/><strong>adjective:</strong> having a sense of right and wrong; principled<br/>Everyone trusted what he said and followed his example because he was <strong>scrupulous</strong> and honest."
+}, {
+"word": "sporadic",
+"type": "<strong>adjective:</strong> recurring in scattered and irregular or unpredictable instances",
+"tag": "new word",
+"script": "The signals were at first <strong>sporadic</strong>, but now we detect a clear, consistent pattern of electromagnetic radiation emanating from deep space."
+}, {
+"word": "subversive",
+"type": "<strong>adjective:</strong> in opposition to an established system or institution. ",
+"tag": "new word",
+"script": "The ruling political party has begun a campaign to shut down <strong>subversive</strong> websites that it deems as a threat to \"national safety.\""
+}, {
+"word": "sycophant",
+"type": "<strong>noun:</strong> a person who tries to please someone in order to gain a personal advantage",
+"tag": "new word",
+"script": "The CEO was unaware of the damaging consequences of his choices, largely because he surrounded himself with <strong>sycophants</strong> who would never dare criticize him."
+}, {
+"word": "taciturn",
+"type": "<strong>adjective:</strong> habitually reserved and uncommunicative",
+"tag": "new word",
+"script": "While the CEO enthusiastically shares his plans and agenda with all who will listen, the CFO is far more <strong>taciturn</strong>, rarely revealing his perspective."
+}, {
+"word": "tempered",
+"type": "<strong>adjective:</strong> moderated in effect",
+"tag": "new word",
+"script": "The wide-eyed optimism of her youth was now <strong>tempered</strong> after she had worked many years in the criminal justice system."
+}, {
+"word": "tractable",
+"type": "<strong>adjective:</strong> readily reacting to suggestions and influences; easily managed (controlled or taught or molded)",
+"tag": "new word",
+"script": "Compared to middle school students, who have an untamed wildness about them, high school students are somewhat more <strong>tractable</strong>."
+}, {
+"word": "trite",
+"type": "<strong>adjective:</strong> repeated too often; overfamiliar through overuse",
+"tag": "new word",
+"script": "Many style guides recommend not using idioms in writing because these <strong>trite</strong> expressions are uninteresting and show a lack of imagination on the part of the writer."
+}, {
+"word": "vacillate",
+"type": "<strong>verb:</strong> be undecided about something; waver between conflicting positions or courses of action",
+"tag": "new word",
+"script": "Some students <strong>vacillate</strong> between schools when deciding which to attend, while others focus only on one school."
+}, {
+"word": "winsome",
+"type": "<strong>adjective:</strong> charming in a childlike or naive way",
+"tag": "new word",
+"script": "She was <strong>winsome</strong> by nature, and many people were drawn to this free and playful spirit."
+}, {
+"word": "Magoosh Practice Questions",
+"type": "<strong>noun:</strong> Test your understanding of concepts from lesson videos.  Learn more at http://gre.magoosh.com",
+"tag": "new word",
+"script": "Zach got  7/7 questions correct on a practice session using <strong>Magoosh practice questions</strong>."
+}]
+}, {
+"name": "Common Word VI",
+"numberCard": 51,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "anomaly",
+"type": "<strong>noun:</strong> something that is not normal, standard, or expected",
+"tag": "new word",
+"script": "After finding an <strong>anomaly</strong> in the data, she knew that she would have to conduct her experiment again."
+}, {
+"word": "antipathy",
+"type": "<strong>noun:</strong> an intense feeling of dislike or aversion",
+"tag": "new word",
+"script": "Maria had an <strong>antipathy</strong> for tour groups, often bolting to the other side of the museum as soon as she saw a chaperone leading a group of wide-eyed tourists."
+}, {
+"word": "appease",
+"type": "<strong>verb:</strong> pacify by acceding to the demands of",
+"tag": "new word",
+"script": "Neville Chamberlain, the British prime minister during WWII, tried to <strong>appease</strong> Hitler and in doing so sent a clear message: you can walk all over us."
+}, {
+"word": "arduous",
+"type": "<strong>adjective:</strong> demanding considerable mental effort and skill; testing powers of endurance",
+"tag": "new word",
+"script": "In order to deal with the <strong>arduous</strong> cross-country journey, truck drivers often survive on a string of caffeinated drinks, staying awake for up to 30 hours at a time."
+}, {
+"word": "askance",
+"type": "<strong>adverb:</strong> with a look of suspicion or disapproval",
+"tag": "new word",
+"script": "The old couple looked <strong>askance</strong> on the teenagers seated next to them, whispering to each other, \"Theyve got rings through their noses and purple hair!\""
+}, {
+"word": "banality",
+"type": "<strong>noun:</strong> a trite or obvious remark",
+"tag": "new word",
+"script": "Herbert regarded the ministers remark as a mere <strong>banality</strong> until Sharon pointed out profound implications to the seemingly obvious words."
+}, {
+"word": "bolster",
+"type": "<strong>verb:</strong> support and strengthen",
+"tag": "new word",
+"script": "The case for the suspects innocence was <strong>bolstered</strong> considerably by the fact that neither fingerprints nor DNA were found at the scene."
+}, {
+"word": "capricious",
+"type": "<strong>adjective:</strong> determined by chance or impulse or whim rather than by necessity or reason",
+"tag": "new word",
+"script": "Nearly every month our <strong>capricious</strong> CEO had a new plan to turn the company around, and none of them worked because we never gave them the time they needed to succeed."
+}, {
+"word": "contrition",
+"type": "<strong>noun:</strong> the feeling of remorse or guilt that comes from doing something bad",
+"tag": "new word",
+"script": "Those who show <strong>contrition</strong> during their prison terms--especially when under review by a parole board--often get shortened sentences."
+}, {
+"word": "craven",
+"type": "<strong>adjective:</strong> pathetically cowardly",
+"tag": "new word",
+"script": "Though the man could have at least alerted the police, he crouched <strong>cravenly</strong> in the corner as the old woman was mugged."
+}, {
+"word": "deleterious",
+"type": "<strong>adjective:</strong> harmful to living things",
+"tag": "new word",
+"script": "The BP oil spill in the Gulf of Mexico was <strong>deleterious</strong> to the fishing industry in the southern states."
+}, {
+"word": "dilatory",
+"type": "<strong>adjective:</strong> wasting time",
+"tag": "new word",
+"script": "Lawyers use <strong>dilatory</strong> tactics so that it takes years before the case is actually decided."
+}, {
+"word": "dispassionate",
+"type": "<strong>adjective:</strong> unaffected by strong emotion or prejudice",
+"tag": "new word",
+"script": "A good scientist should be <strong>dispassionate</strong>, focusing purely on what the evidence says, without personal attachment."
+}, {
+"word": "disseminate",
+"type": "<strong>verb:</strong> cause to become widely known",
+"tag": "new word",
+"script": "Before the effects of anesthesia were <strong>disseminated</strong>, patients had to experience the full pain of a surgery."
+}, {
+"word": "duress",
+"type": "<strong>noun:</strong> compulsory force or threat",
+"tag": "new word",
+"script": "The witness said he signed the contract under <strong>duress</strong> and argued that the court should cancel the agreement."
+}, {
+"word": "economical",
+"type": "<strong>adjective:</strong> avoiding waste, efficient",
+"tag": "new word",
+"script": "Journalists favor an <strong>economical</strong> style of writing, in which no unnecessary words are used and every sentence is as short as possible."
+}, {
+"word": "edifying",
+"type": "<strong>adjective:</strong> enlightening or uplifting so as to encourage intellectual or moral improvement",
+"tag": "new word",
+"script": "I recently read an article in the Times about whether good literature is <strong>edifying</strong> or not; specifically, does reading more make a person more moral."
+}, {
+"word": "efficacious",
+"type": "<strong>adjective:</strong> producing the intended result",
+"tag": "new word",
+"script": "Since Maggies cough syrup, which had expired five years back, was no longer <strong>efficacious</strong>, she coughed through the night."
+}, {
+"word": "elicit",
+"type": "<strong>verb:</strong> call forth (emotions, feelings, and responses)",
+"tag": "new word",
+"script": "Just smiling--even if you are depressed--can <strong>elicit</strong> feelings of pleasure and happiness."
+}, {
+"word": "erudite",
+"type": "<strong>adjective:</strong> having or showing profound knowledge",
+"tag": "new word",
+"script": "Before the Internet, the library was typically where you would find <strong>erudite</strong> readers."
+}, {
+"word": "esoteric",
+"type": "<strong>adjective:</strong> confined to and understandable by only an enlightened inner circle",
+"tag": "new word",
+"script": "Map collecting is an <strong>esoteric</strong> hobby to most, but to geography geeks it is a highly enjoyable pastime."
+}, {
+"word": "fastidious",
+"type": "<strong>adjective:</strong> overly concerned with details; fussy",
+"tag": "new word",
+"script": "Whitney is <strong>fastidious</strong> about her shoes, arranging them on a shelf in a specific order, each pair evenly spaced."
+}, {
+"word": "flux",
+"type": "<strong>noun:</strong> a state of uncertainty about what should be done (usually following some important event)",
+"tag": "new word",
+"script": "Ever since Elvira resigned as the head of marketing, everything about our sales strategy has been in a state of <strong>flux</strong>."
+}, {
+"word": "furtive",
+"type": "<strong>adjective:</strong> marked by quiet and caution and secrecy; taking pains to avoid being observed",
+"tag": "new word",
+"script": "While at work, George and his boss Regina felt the need to be as <strong>furtive</strong> as possible about their romantic relationship."
+}, {
+"word": "harried",
+"type": "<strong>adjective:</strong> troubled persistently especially with petty annoyances",
+"tag": "new word",
+"script": "With a team of new hires to train, Martha was constantly <strong>harried</strong> with little questions and could not focus on her projects."
+}, {
+"word": "ignominious",
+"type": "<strong>adjective:</strong> (used of conduct or character) deserving or bringing disgrace or shame",
+"tag": "new word",
+"script": "Since the politician preached ethics and morality, his texting of revealing photographs was <strong>ignominious</strong>, bringing shame on both himself and his party."
+}, {
+"word": "impartial",
+"type": "<strong>adjective:</strong> free from undue bias or preconceived opinions",
+"tag": "new word",
+"script": "The judge was not <strong>impartial</strong> since he had been bribed by the witnesss family."
+}, {
+"word": "imprudent",
+"type": "<strong>adjective:</strong> not wise",
+"tag": "new word",
+"script": "Hitler, like Napoleon, made the <strong>imprudent</strong> move of invading Russia in winter, suffering even more casualties than Napoleon had."
+}, {
+"word": "indecorous",
+"type": "<strong>adjective:</strong> not in keeping with accepted standards of what is right or proper in polite society",
+"tag": "new word",
+"script": "Eating with elbows on the table is considered <strong>indecorous</strong> in refined circles."
+}, {
+"word": "jovial",
+"type": "<strong>adjective:</strong> full of or showing high-spirited merriment",
+"tag": "new word",
+"script": "The presidential candidate and her supporters were <strong>jovial</strong> once it was clear that she had won."
+}, {
+"word": "maladroit",
+"type": "<strong>adjective:</strong> clumsy",
+"tag": "new word",
+"script": "As a child she was quite <strong>maladroit</strong>, but as an adult, she has become an adept dancer."
+}, {
+"word": "maverick",
+"type": "<strong>noun:</strong> someone who exhibits great independence in thought and action",
+"tag": "new word",
+"script": "Officer Kelly was a <strong>maverick</strong>, rarely following police protocols or adopting the conventions for speech common among his fellow officers."
+}, {
+"word": "mendacity",
+"type": "<strong>noun:</strong> the tendency to be untruthful",
+"tag": "new word",
+"script": "I can forgive her for her <strong>mendacity</strong> but only because she is a child and is seeing what she can get away with."
+}, {
+"word": "misconstrue",
+"type": "<strong>verb:</strong> interpret in the wrong way",
+"tag": "new word",
+"script": "The politician never trusted journalists because he thought that they would <strong>misconstrue</strong> his words and misrepresent his positions."
+}, {
+"word": "mundane",
+"type": "<strong>adjective:</strong> repetitive and boring; not spiritual",
+"tag": "new word",
+"script": "Nancy found doing dishes a thorougly <strong>mundane</strong> task, although Peter found a kind of Zen pleasure in the chore.<br/><strong>adjective:</strong> relating to the ordinary world<br/>Though we think of the pope as someone always dealing in holy matters, he is also concerned with <strong>mundane</strong> events, such as deciding when to set his alarm each morning."
+}, {
+"word": "nonplussed",
+"type": "<strong>adjective:</strong> unsure how to act or respond",
+"tag": "new word",
+"script": "Shirley was totally <strong>nonplussed</strong> when the angry motorist cut her off and then stuck his finger out the window."
+}, {
+"word": "nuance",
+"type": "<strong>noun:</strong> a subtle difference in meaning or opinion or attitude",
+"tag": "new word",
+"script": "Because of the <strong>nuances</strong> involved in this case, I hired an outside consultant to advise us and help."
+}, {
+"word": "opulence",
+"type": "<strong>noun:</strong> wealth as evidenced by sumptuous living",
+"tag": "new word",
+"script": "Russian oligarchs are famous for their <strong>opulence</strong>, living in fancy homes and dining on expensive caviar."
+}, {
+"word": "pejorative",
+"type": "<strong>adjective:</strong> expressing disapproval (usu. refers to a term)",
+"tag": "new word",
+"script": "Most psychologists object to the <strong>pejorative</strong> term \"shrink\", believing that they expand the human mind, not limit it."
+}, {
+"word": "placate",
+"type": "<strong>verb:</strong> cause to be more favorably inclined; gain the good will of",
+"tag": "new word",
+"script": "I was able to <strong>placate</strong> the angry mob of students by promising to bring cookies on Monday."
+}, {
+"word": "polemic",
+"type": "<strong>noun:</strong> a strong verbal or written attack on someone or something.",
+"tag": "new word",
+"script": "The professor launched into a <strong>polemic</strong>, claiming that Freudian theory was a pack of lies that absolutely destroyed European literary theory."
+}, {
+"word": "posit",
+"type": "<strong>verb:</strong> assume as fact",
+"tag": "new word",
+"script": "Initially, Einstein <strong>posited</strong> a repulsive force to balance Gravity, but then rejected that idea as a blunder."
+}, {
+"word": "rebuke",
+"type": "<strong>verb:</strong> criticize severely or angrily; censure",
+"tag": "new word",
+"script": "The police chief <strong>rebuked</strong> the two officers whose irresponsible decisions almost led to the deaths of seven innocent by-standers."
+}, {
+"word": "reproach",
+"type": "<strong>verb:</strong> to express criticism towards",
+"tag": "new word",
+"script": "At first, Sarah was going to yell at the boy, but she didnt want to <strong>reproach</strong> him for telling the truth about the situation."
+}, {
+"word": "specious",
+"type": "<strong>adjective:</strong> based on pretense; deceptively pleasing",
+"tag": "new word",
+"script": "Almost every image on TV is <strong>specious</strong> and not to be trusted.<br/><strong>adjective:</strong> plausible but false<br/>He made a career out of <strong>specious</strong> arguments and fictional lab results, but lost his job and reputation when his lies were exposed by an article in The New York Times."
+}, {
+"word": "stringent",
+"type": "<strong>adjective:</strong> demanding strict attention to rules and procedures",
+"tag": "new word",
+"script": "Most of the students disliked the teacher because of his <strong>stringent</strong> homework policy, but many students would later thank him for demanding so much from them."
+}, {
+"word": "sullen",
+"type": "<strong>adjective:</strong> showing a brooding ill humor",
+"tag": "new word",
+"script": "Herbert took board games too seriously, often appearing <strong>sullen</strong> after losing."
+}, {
+"word": "timorous",
+"type": "<strong>adjective:</strong> timid by nature or revealing fear and nervousness",
+"tag": "new word",
+"script": "Since this was her first time debating on stage and before an audience, Dis voice was <strong>timorous</strong> and quiet for the first 10 minutes."
+}, {
+"word": "transient",
+"type": "<strong>adjective:</strong> lasting a very short time",
+"tag": "new word",
+"script": "The unpredictable and <strong>transient</strong> nature of deja vu makes it a very difficult phenomenon to study properly."
+}, {
+"word": "truncate",
+"type": "<strong>verb:</strong> reduce the length of something",
+"tag": "new word",
+"script": "The soccer game was <strong>truncated</strong> when the monsoon rain began to fall."
+}, {
+"word": "Magoosh Score Estimator",
+"type": "<strong>noun:</strong> After taking a practice exam, determine your score on the GRE 340-point scale.  Learn more at http://gre.magoosh.com",
+"tag": "new word",
+"script": "Mike scored a 335 on a practice exam using the <strong>Magoosh score estimator</strong>."
+}]
+}, {
+"name": "Common Word VII",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "candid",
+"type": "<strong>adjective:</strong> straightforward and honest",
+"tag": "new word",
+"script": "Even with a perfect stranger, Charles was always <strong>candid</strong> and would rarely hold anything back."
+}, {
+"word": "erratic",
+"type": "<strong>adjective:</strong> unpredictable; strange and unconventional",
+"tag": "new word",
+"script": "It came as no surprise to pundits that the President’s attempt at re-election floundered; even during his term, support for his policies was <strong>erratic</strong>, with an approval rating jumping anywhere from 30 to 60 percent. "
+}, {
+"word": "bleak",
+"type": "<strong>adjective:</strong> having a depressing or gloomy outlook",
+"tag": "new word",
+"script": "Unremitting overcast skies tend to lead people to create <strong>bleak</strong> literature and lugubrious music — compare England’s band Radiohead to any band from Southern California. "
+}, {
+"word": "retiring",
+"type": "<strong>adjective:</strong> to be shy, and to be inclined to retract from company",
+"tag": "new word",
+"script": "Nelson was always the first to leave soirees—rather than mill about with “fashionable” folk, he was <strong>retiring</strong>, and preferred the solitude of his garret."
+}, {
+"word": "tender",
+"type": "<strong>verb:</strong> offer up something formally",
+"tag": "new word",
+"script": "The government was loath to <strong>tender</strong> more money in the fear that it might set off inflation. "
+}, {
+"word": "telling",
+"type": "<strong>adjective:</strong> significant and revealing of another factor",
+"tag": "new word",
+"script": "Her unbecoming dress was very <strong>telling</strong> when it came to her sense of fashion."
+}, {
+"word": "variance",
+"type": "<strong>noun:</strong> the quality of being different",
+"tag": "new word",
+"script": "The cynic quipped, “There is not much <strong>variance</strong> in politicians; they all seem to lie”."
+}, {
+"word": "demure",
+"type": "<strong>adjective:</strong> to be modest and shy",
+"tag": "new word",
+"script": "The portrait of her in a simple white blouse was sweet and <strong>demure</strong>."
+}, {
+"word": "profuse",
+"type": "<strong>adjective:</strong> plentiful; pouring out in abundance",
+"tag": "new word",
+"script": "During mile 20 of the Hawaii Marathon, Dwayne was sweating so <strong>profusely</strong> that he stopped to take off \r\nhis shirt, and ran the remaining six miles wearing nothing more than skimpy shorts."
+}, {
+"word": "inundate",
+"type": "<strong>verb:</strong> to flood or overwhelm",
+"tag": "new word",
+"script": "The newsroom was <strong>inundated</strong> with false reports that only made it more difficult for the newscasters to provide an objective account of the bank robbery."
+}, {
+"word": "miser",
+"type": "<strong>noun:</strong> a person who doesnt like to spend money (because they are greedy)",
+"tag": "new word",
+"script": "Monte was no <strong>miser</strong>, but was simply frugal, wisely spending the little that he earned."
+}, {
+"word": "indigenous",
+"type": "<strong>adjective:</strong> originating in a certain area",
+"tag": "new word",
+"script": "The plants and animals <strong>indigenous</strong> to Australia are notably different from those <strong>indigenous</strong> to the U.S—one look at a duckbill platypus and you know you’re not dealing with an opossum."
+}, {
+"word": "indignant",
+"type": "<strong>adjective:</strong> feeling anger over a perceived injustice",
+"tag": "new word",
+"script": "When the cyclist swerved into traffic, it forced the driver to brake and elicited an <strong>indignant</strong> shout of \"Hey, punk, watch where youre going!\""
+}, {
+"word": "err",
+"type": "<strong>verb:</strong> to make an error",
+"tag": "new word",
+"script": "He <strong>erred</strong> in thinking that \"indigent\" and \"indignant\" were synonyms."
+}, {
+"word": "censor",
+"type": "<strong>verb:</strong> to examine and remove objectionable material",
+"tag": "new word",
+"script": "Every fall, high school English teachers are inundated by requests to <strong>censor</strong> their curriculum by removing The Catcher in the Rye and Scarlet Letter from their reading lists.<br/><strong>noun:</strong> an official who censors material<br/>The <strong>censor</strong> insisted that every reference to drugs should be removed from the manuscript."
+}, {
+"word": "mesmerize",
+"type": "<strong>verb:</strong> to spellbind or enthrall",
+"tag": "new word",
+"script": "The plot and the characters were so well developed that many viewers were <strong>mesmerized</strong>, unable to move their eyes from the screen for even a single second."
+}, {
+"word": "reprobate",
+"type": "<strong>noun:</strong> a person without morals who is disapproved of",
+"tag": "new word",
+"script": "Mr. Smith’s two boys couldn’t be more different; one was a hard-working and principled, the other was the town <strong>reprobate</strong>, always having run-ins with the law."
+}, {
+"word": "pine",
+"type": "<strong>verb:</strong> to yearn for",
+"tag": "new word",
+"script": "Standing forlornly by the window, she <strong>pined</strong> for her lost love."
+}, {
+"word": "remiss",
+"type": "<strong>adjective:</strong> to be negligent in one’s duty",
+"tag": "new word",
+"script": "<strong>Remiss</strong> in his duty to keep the school functioning efficiently, the principal was relieved of his position after only three months."
+}, {
+"word": "embroiled",
+"type": "<strong>verb:</strong> involved in argument or contention",
+"tag": "new word",
+"script": "These days we are never short of a D.C. politician <strong>embroiled</strong> in scandal—a welcome phenomenon for those who, having barely finished feasting on the sordid details of one imbroglio, can sink their teeth into a fresh one."
+}, {
+"word": "thrifty",
+"type": "<strong>adjective:</strong> spending money wisely",
+"tag": "new word",
+"script": "He was economical, spending his money <strong>thriftily</strong> and on items considered essential."
+}, {
+"word": "spendthrift",
+"type": "<strong>noun:</strong> one who spends money extravagantly",
+"tag": "new word",
+"script": "Taking weekly trips to Vegas, Megan was a <strong>spendthrift</strong> whose excesses eventually caught up to her. "
+}, {
+"word": "insolvent",
+"type": "<strong>adjective:</strong> unable to pay ones bills; bankrupt",
+"tag": "new word",
+"script": "With credit card bills skyrocketing, a shockingly large number of Americans are truly <strong>insolvent</strong>."
+}, {
+"word": "affluent",
+"type": "<strong>adjective:</strong> wealthy",
+"tag": "new word",
+"script": "The center of the city had sadly become a pit of penury, while, only five miles away, multi-million dollar homes spoke of <strong>affluence</strong>."
+}, {
+"word": "unnerve",
+"type": "<strong>verb:</strong> to make nervous or upset",
+"tag": "new word",
+"script": "At one time <strong>unnerved</strong> by math problems, she began avidly “Magoosh-ing”, and soon became adept at even combinations and permutations questions."
+}, {
+"word": "inflammatory",
+"type": "<strong>adjective:</strong> extremely controversial, incendiary",
+"tag": "new word",
+"script": "It only takes one person to leave an <strong>inflammatory</strong> comment on an Internet thread for that thread to blow up into pages upon pages of reader indignation. "
+}, {
+"word": "stipend",
+"type": "<strong>noun:</strong> a regular allowance (of money)",
+"tag": "new word",
+"script": "He was hoping for a monthly allowance loan from the government, but after no such <strong>stipend</strong> was forthcoming he realized he would have to seek other means of paying for his college tuition. "
+}, {
+"word": "dupe",
+"type": "<strong>verb:</strong> to trick or swindle",
+"tag": "new word",
+"script": "Once again a get-rich-fast Internet scheme had <strong>duped</strong> Harold into submitting a $5,000 check to a sham operation.<br/><strong>noun:</strong> a person who is easily tricked or swindled<br/>The charlatan mistook the crowd for a bunch of <strong>dupes</strong>, but the crowd was quickly on to him and decried his bald-faced attempt to bilk them. "
+}, {
+"word": "zenith",
+"type": "<strong>noun:</strong> the highest point; culmination",
+"tag": "new word",
+"script": "At the <strong>zenith</strong> of his artistic career, Elvis was outselling any other artist on the charts."
+}, {
+"word": "summit",
+"type": "<strong>noun:</strong> the peak or highest point",
+"tag": "new word",
+"script": "After hiking for seven days, the climbers finally reached the <strong>summit</strong> of Mount Kilimanjaro.<br/><strong>noun:</strong> a meeting of high-level leaders<br/>Since climate change policy has been mired in congressional fighting, this <strong>summit</strong> should help set the goals for presidents next term."
+}, {
+"word": "acme",
+"type": "<strong>noun:</strong> the highest point of achievement",
+"tag": "new word",
+"script": "The new Cessna airplanes will be the <strong>acme</strong> of comfort, offering reclining seats and ample legroom. "
+}, {
+"word": "pinnacle",
+"type": "<strong>noun:</strong> the highest point",
+"tag": "new word",
+"script": "At its <strong>pinnacle</strong>, the Roman Empire extended across most of the landmass of Eurasia, a feat not paralleled to the rise of the British Empire in the 18th and 19th century."
+}, {
+"word": "voracious",
+"type": "<strong>adjective:</strong> very hungry; approaching an activity with gusto",
+"tag": "new word",
+"script": "Steven was a <strong>voracious</strong> reader, sometimes finishing two novels in the same day."
+}, {
+"word": "vindictive",
+"type": "<strong>adjective:</strong> to have a very strong desire for revenge",
+"tag": "new word",
+"script": "Though the other girl had only lightly poked fun of Vanessas choice in attire, Vanessa was so <strong>vindictive</strong> that she waited for an entire semester to get the perfect revenge. "
+}, {
+"word": "underwrite",
+"type": "<strong>verb:</strong> to support financially",
+"tag": "new word",
+"script": "The latest symphony broadcast was made possible with <strong>underwriting</strong> from the Carnegie Endowment."
+}, {
+"word": "hound",
+"type": "<strong>verb:</strong> to pursue relentlessly",
+"tag": "new word",
+"script": "An implacable foe of corruption, Eliot Ness <strong>hounded</strong> out graft in all forms—he even helped nab Al Capone."
+}, {
+"word": "dog",
+"type": "<strong>verb:</strong> to pursue relentlessly; to hound",
+"tag": "new word",
+"script": "Throughout his life, he was <strong>dogged</strong> by insecurities that inhibited personal growth."
+}, {
+"word": "serendipity",
+"type": "<strong>noun:</strong> the instance in which an accidental, fortunate discovery is made",
+"tag": "new word",
+"script": "By pure <strong>serendipity</strong>, Sarah discovered, at a flea market in Peoria, a matching earring to replace the one that fell down the storm drain back home.  "
+}, {
+"word": "affable",
+"type": "<strong>adjective:</strong> likeable; easy to talk to",
+"tag": "new word",
+"script": "For all his surface <strong>affability</strong>, Marco was remarkably glum when he wasn’t around other people. "
+}, {
+"word": "amiable",
+"type": "<strong>adjective:</strong> friendly",
+"tag": "new word",
+"script": "Amy’s name was very apt: she was so <strong>amiable</strong> that she was twice voted class president."
+}, {
+"word": "peruse",
+"type": "<strong>verb:</strong> to read very carefully",
+"tag": "new word",
+"script": "Instead of <strong>perusing</strong> important documents, people all too often rush to the bottom of the page and plaster their signatures at the bottom."
+}, {
+"word": "screed",
+"type": "<strong>noun:</strong> an abusive rant (often tedious)",
+"tag": "new word",
+"script": "Joey had difficulty hanging out with his former best friend Perry, who, during his entire cup of coffee, enumerated all of the government’s deficiencies--only to break ranks and launch into some <strong>screed</strong> against big business. "
+}, {
+"word": "tirade",
+"type": "<strong>noun:</strong> an angry speech",
+"tag": "new word",
+"script": "In terms of political change, a <strong>tirade</strong> oftentimes does little more than make the person speaking red in the face."
+}, {
+"word": "diabolical",
+"type": "<strong>adjective:</strong> to be extremely wicked like the devil",
+"tag": "new word",
+"script": "The conspirators, willing to dispatch anyone who stood in their way, hatched a <strong>diabolical</strong> plan to take over the city."
+}, {
+"word": "macabre",
+"type": "<strong>adjective:</strong> suggesting the horror of death and decay; gruesome",
+"tag": "new word",
+"script": "Edgar Allen Poe was considered the master of the <strong>macabre</strong>; his stories vividly describe the moment leading up to—and often those moments after—a grisly death."
+}, {
+"word": "slapdash",
+"type": "<strong>adjective:</strong> carelessly and hastily put together",
+"tag": "new word",
+"script": "The office building had been constructed in a <strong>slapdash</strong> manner, so it did not surprise officials when, during a small earthquake, a large crack emerged on the façade of the building."
+}, {
+"word": "telltale",
+"type": "<strong>adjective:</strong> revealing",
+"tag": "new word",
+"script": "The many <strong>telltale</strong> signs of chronic smoking include yellow teeth, and a persistent, hacking cough."
+}, {
+"word": "thoroughgoing",
+"type": "<strong>adjective:</strong> very thorough; complete",
+"tag": "new word",
+"script": "As a <strong>thoroughgoing</strong> bibliophile, one who had turned his house into a veritable library, he shocked his friends when he bought a Kindle."
+}, {
+"word": "demean",
+"type": "<strong>verb:</strong> to insult; to cause someone to lose dignity or respect",
+"tag": "new word",
+"script": "At first the soccer players bantered back and forth, but as soon as one of the players became <strong>demeaning</strong>, calling the others mother a water buffalo, the ref whipped out a red card."
+}, {
+"word": "indict",
+"type": "<strong>verb:</strong> to formally charge or accuse of wrong-doing",
+"tag": "new word",
+"script": "The bankrobber was <strong>indicted</strong> on several major charges, including possession of a firearm. "
+}]
+}, {
+"name": "Common Word VIII",
+"numberCard": 49,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "paucity",
+"type": "<strong>noun:</strong> a lack of something",
+"tag": "new word",
+"script": "There is a <strong>paucity</strong> of jobs hiring today that require menial skills, since most such jobs have either been automated or outsourced."
+}, {
+"word": "contrite",
+"type": "<strong>adjective:</strong> to be remorseful",
+"tag": "new word",
+"script": "Though he stole his little sister’s licorice stick with malevolent glee, Chucky soon became <strong>contrite</strong> when his sister wouldnt stop crying. "
+}, {
+"word": "disparate",
+"type": "<strong>adjective:</strong> two things are fundamentally different",
+"tag": "new word",
+"script": "With the advent of machines capable of looking inside the brain, fields as <strong>disparate</strong> as religion and biology have been brought together by scientists trying to understand what happens in the brain when people have a religious experience. "
+}, {
+"word": "stem",
+"type": "<strong>verb:</strong> to hold back or limit the flow or growth of something",
+"tag": "new word",
+"script": "To <strong>stem</strong> the tide of applications, the prestigious Ivy requires that each applicant score at least 330 on the Revised GRE."
+}, {
+"word": "checkered",
+"type": "<strong>adjective:</strong> marked by disreputable or unfortunate happenings",
+"tag": "new word",
+"script": "One by one, the presidential candidates dropped out of the race, their respective <strong>checkered</strong> pasts— from embezzlement to infidelity—sabotaging their campaigns."
+}, {
+"word": "raft",
+"type": "<strong>noun:</strong> a large number of something",
+"tag": "new word",
+"script": "Despite a <strong>raft</strong> of city ordinances passed by an overzealous council, noise pollution continued unabated in the megalopolis."
+}, {
+"word": "scintillating",
+"type": "<strong>adjective:</strong> describes someone who is brilliant and lively",
+"tag": "new word",
+"script": "Richard Feynman was renowned for his <strong>scintillating</strong> lectures—the arcana of quantum physics was made lucid as he wrote animatedly on the chalkboard."
+}, {
+"word": "flush",
+"type": "<strong>adjective:</strong> to be in abundance",
+"tag": "new word",
+"script": "The exams passage is <strong>flush</strong> with difficult words, words that you may have learned only yesterday."
+}, {
+"word": "becoming",
+"type": "<strong>adjective:</strong> appropriate, and matches nicely",
+"tag": "new word",
+"script": "Her dress was <strong>becoming</strong> and made her look even more beautiful."
+}, {
+"word": "check",
+"type": "<strong>verb:</strong> to limit (usually modifying the growth of something)",
+"tag": "new word",
+"script": "Deserted for six months, the property began to look more like a jungle and less like a residence—weeds grew <strong>unchecked</strong> in the front yard<br/><strong>noun:</strong> the condition of being held back or limited<br/>When government abuses are not kept in <strong>check</strong>, that government is likely to become autocratic."
+}, {
+"word": "beatific",
+"type": "<strong>adjective:</strong> blissfully happy",
+"tag": "new word",
+"script": "Often we imagine all monks to wear the <strong>beatific</strong> smile of the Buddha, but, like any of us, a monk can have a bad day and not look very happy."
+}, {
+"word": "pugnacious",
+"type": "<strong>adjective:</strong> eager to fight or argue; verbally combative",
+"tag": "new word",
+"script": "The comedian told one flat joke after another, and when the audience started booing, he <strong>pugnaciously</strong> spat back at them, “Hey, you think this is easy – why don’t you buffoons give it a shot?”"
+}, {
+"word": "moment",
+"type": "<strong>noun:</strong> significant and important value",
+"tag": "new word",
+"script": "Despite the initial hullabaloo, the play was of no great <strong>moment</strong> in Hampton’s writing career, and within a few years the public quickly forgot his foray into theater arts."
+}, {
+"word": "start",
+"type": "<strong>verb:</strong> to suddenly move in a particular direction",
+"tag": "new word",
+"script": "All alone in the mansion, Henrietta <strong>started</strong> when she heard a sound."
+}, {
+"word": "fleece",
+"type": "<strong>verb:</strong> to deceive",
+"tag": "new word",
+"script": "Many people have been <strong>fleeced</strong> by Internet scams and never received their money back."
+}, {
+"word": "wax",
+"type": "<strong>verb:</strong> to gradually increase in size or intensity",
+"tag": "new word",
+"script": "Her enthusiasm for the diva’s new album only <strong>waxed</strong> with each song; by the end of the album, it was her favorite CD yet. "
+}, {
+"word": "preemptive",
+"type": "<strong>adjective:</strong> done before someone else can do it",
+"tag": "new word",
+"script": "Just as Martha was about to take the only cookie left on the table, Noah <strong>preemptively</strong> swiped it."
+}, {
+"word": "errant",
+"type": "<strong>adjective:</strong> to be wandering; not sticking to a circumscribed path",
+"tag": "new word",
+"script": "Unlike his peers, who spent their hours studying in the library, Matthew preferred <strong>errant</strong> walks through the university campus."
+}, {
+"word": "imponderable",
+"type": "<strong>adjective:</strong> impossible to estimate or figure out",
+"tag": "new word",
+"script": "According to many lawmakers, the huge variety of factors affecting society make devising an efficient healthcare system an <strong>imponderable</strong> task."
+}, {
+"word": "junta",
+"type": "<strong>noun:</strong> an aggressive takeover by a group (usually military); the group that executes such a takeover",
+"tag": "new word",
+"script": "As dangerous of a threat as North Korea is, some analysts believe that were a <strong>junta</strong> suddenly to gain power, it could be even more unpredictable and bellicose than the current leadership"
+}, {
+"word": "amok",
+"type": "<strong>adverb:</strong> in a frenzied or uncontrolled state",
+"tag": "new word",
+"script": "Wherever the bowl haircut teen-idol went, his legions of screaming fans ran through the streets <strong>amok</strong>, hoping for a glance at his boyish face."
+}, {
+"word": "melee",
+"type": "<strong>noun:</strong> a wild, confusing fight or struggle",
+"tag": "new word",
+"script": "After enduring daily taunts about my name, I became enraged and pummeled the schoolyard bully and his sycophantic friends in a brutal <strong>melee</strong>."
+}, {
+"word": "chauvinist",
+"type": "<strong>noun:</strong> a person who believes in the superiority of their group",
+"tag": "new word",
+"script": "The <strong>chauvinist</strong> lives on both sides of the political spectrum, outright shunning anybody whose ideas are not consistent with his own."
+}, {
+"word": "sanguine",
+"type": "<strong>adjective:</strong> cheerful; optimistic",
+"tag": "new word",
+"script": "With the prospect of having to learn 3,000 words during the course of the summer, Paul was anything but <strong>sanguine</strong>. "
+}, {
+"word": "misanthrope",
+"type": "<strong>noun:</strong> a hater of mankind",
+"tag": "new word",
+"script": "Kevin is such a <strong>misanthrope</strong> that he refused to attend the Christmas party, claiming that everyones happiness was \"fake\" and \"annoying.\""
+}, {
+"word": "virago",
+"type": "<strong>noun:</strong> an ill-tempered or violent woman",
+"tag": "new word",
+"script": "Poor Billy was the victim of the <strong>virago</strong>’s invective—she railed at him for a good 30-minutes about how he is the scum of the earth for speaking loudly on his cellphone in public. "
+}, {
+"word": "cardinal",
+"type": "<strong>adjective:</strong> of primary importance; fundamental",
+"tag": "new word",
+"script": "Most cultures consider gambling a <strong>cardinal</strong> sin and thus have outlawed its practice."
+}, {
+"word": "desecrate",
+"type": "<strong>verb:</strong> to willfully violate or destroy a sacred place",
+"tag": "new word",
+"script": "After <strong>desecrating</strong> the pharaohs tomb, the archaeologist soon fell victim to a horrible illness."
+}, {
+"word": "sanctimonious",
+"type": "<strong>adjective:</strong> making a show of being pious; holier-than-thou",
+"tag": "new word",
+"script": "Even during the quiet sanctity of evening prayer, she held her chin high, a <strong>sanctimonious</strong> sneer forming on her face as she eyed those who were attending church for the first time."
+}, {
+"word": "immaterial",
+"type": "<strong>adjective:</strong> not relevant",
+"tag": "new word",
+"script": "The judge found the defendant’s comments <strong>immaterial</strong> to the trial, and summarily dismissed him from the witness stand."
+}, {
+"word": "avarice",
+"type": "<strong>noun:</strong> greed (one of the seven deadly sins)",
+"tag": "new word",
+"script": "The Spanish conquistadors were known for their <strong>avarice</strong>, plundering Incan land and stealing Incan gold."
+}, {
+"word": "unconscionable",
+"type": "<strong>adjective:</strong> unreasonable; unscrupulous; excessive",
+"tag": "new word",
+"script": "The lawyer’s demands were so <strong>unconscionable</strong> that rather than pay an exorbitant sum or submit himself to any other inconveniences, the defendant decided to find a new lawyer."
+}, {
+"word": "pittance",
+"type": "<strong>noun:</strong> a small amount (of money)",
+"tag": "new word",
+"script": "Vinny’s uncle beamed smugly about how he’d offered his nephew fifty dollars for his Harvard tuition; even twice the amount would have been a mere <strong>pittance</strong>."
+}, {
+"word": "exhort",
+"type": "<strong>verb:</strong> to strongly urge on; encourage",
+"tag": "new word",
+"script": "Nelson’s parents <strong>exhorted</strong> him to study medicine, urging him to choose a respectable profession; intransigent, Nelson left home to become a graffiti artist."
+}, {
+"word": "extenuating",
+"type": "<strong>adjective:</strong> making less guilty or more forgivable",
+"tag": "new word",
+"script": "The jury was hardly moved by the man’s plea that his loneliness was an <strong>extenuating</strong> factor in his crime of dognapping a prized pooch. "
+}, {
+"word": "apex",
+"type": "<strong>noun:</strong> the highest point",
+"tag": "new word",
+"script": "The Ivy League is considered the <strong>apex</strong> of the higher education system."
+}, {
+"word": "vicarious",
+"type": "<strong>adjective:</strong> felt or undergone as if one were taking part in the experience or feelings of another",
+"tag": "new word",
+"script": "The advent of twitter is a celebrity stalkers dream, as he or she can—through hundreds of intimate \"tweets\"—<strong>vicariously</strong> live the life of a famous person."
+}, {
+"word": "bellicose",
+"type": "<strong>adjective:</strong> warlike; inclined to quarrel",
+"tag": "new word",
+"script": "Known for their <strong>bellicose</strong> ways, the Spartans were once the most feared people from Peloponnesus to Persia."
+}, {
+"word": "cogent",
+"type": "<strong>adjective:</strong> clear and persuasive",
+"tag": "new word",
+"script": "A <strong>cogent</strong> argument will change the minds of even the most skeptical audience."
+}, {
+"word": "badger",
+"type": "<strong>verb:</strong> to pester",
+"tag": "new word",
+"script": "<strong>Badgered</strong> by his parents to find a job, the 30-year-old loafer instead joined a gang of itinerant musicians."
+}, {
+"word": "corroborate",
+"type": "<strong>verb:</strong> to confirm or lend support to (usually an idea or claim)",
+"tag": "new word",
+"script": "Her claim that frog populations were falling precipitously in Central America was <strong>corroborated</strong> by locals, who reported that many species of frogs had seemingly vanished overnight."
+}, {
+"word": "ferret",
+"type": "<strong>verb:</strong> to search for something persistently",
+"tag": "new word",
+"script": "Ever the resourceful lexicographer, Fenton was able to <strong>ferret</strong> out the word origin of highly obscure words."
+}, {
+"word": "animosity",
+"type": "<strong>noun:</strong> intense hostility",
+"tag": "new word",
+"script": "The governor’s <strong>animosity</strong> toward his rival was only inflamed when the latter spread false lies regarding the governor’s first term."
+}, {
+"word": "catalyst",
+"type": "<strong>noun:</strong> something that speeds up an event",
+"tag": "new word",
+"script": "Rosa Parkss refusal to give up her bus seat acted as a <strong>catalyst</strong> for the Civil Rights Movement, setting into motion historic changes for African-Americans. "
+}, {
+"word": "cadaverous",
+"type": "<strong>adjective:</strong> emaciated; gaunt",
+"tag": "new word",
+"script": "Some actors take challenging roles in which they have to lose so much weight that they appear <strong>cadaverous</strong>."
+}, {
+"word": "heyday",
+"type": "<strong>noun:</strong> the pinnacle or top of a time period or career",
+"tag": "new word",
+"script": "During the <strong>heyday</strong> of Prohibition, bootlegging had become such a lucrative business that many who had been opposed to the 18th Amendment began to fear it would be repealed."
+}, {
+"word": "hodgepodge",
+"type": "<strong>noun:</strong> a confusing mixture or jumble",
+"tag": "new word",
+"script": "Those in attendance represented a <strong>hodgepodge</strong> of the citys denizens: chimney sweepers could be seen sitting elbow to elbow with stockbrokers. "
+}, {
+"word": "aboveboard",
+"type": "<strong>adjective:</strong> open and honest",
+"tag": "new word",
+"script": "The mayor, despite his avuncular face plastered about the city, was hardly <strong>aboveboard</strong> – some concluded that it was his ingratiating smile that allowed him to engage in corrupt behavior and get\r\naway with it."
+}, {
+"word": "replete",
+"type": "<strong>adjective:</strong> completely stocked or furnished with something",
+"tag": "new word",
+"script": "Only weeks after the hurricane made landfall, the local supermarket shelves were <strong>replete</strong> with goods, so quick was the disaster relief response.  "
+}]
+}, {
+"name": "Common Word IX",
+"numberCard": 50,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "advocate",
+"type": "<strong>verb:</strong> speak, plead, or argue in favor of",
+"tag": "new word",
+"script": "While the senator privately approved of gay marriage, he was unwilling to <strong>advocate</strong> for the cause in a public venue.<br/><strong>noun:</strong> a person who pleads for a cause or propounds an idea<br/>Martin Luther King Jr. was a tireless <strong>advocate</strong> for the rights of African-Americans in the United States. "
+}, {
+"word": "appreciable",
+"type": "<strong>adjective:</strong> large enough to be noticed (usu. refers to an amount)",
+"tag": "new word",
+"script": "There is an <strong>appreciable</strong> difference between those who say they can get the job done and those who actually get the job done."
+}, {
+"word": "apprehension",
+"type": " < strong > noun: < /strong> fearful expectation",
+"tag": "new word",
+"script": "Test day can be one of pure <strong>apprehension</strong>, as many students worry about their test scores."
+}, {
+"word": "archaic",
+"type": "<strong>adjective:</strong> so old as to appear to belong to a different period",
+"tag": "new word",
+"script": "Hoping to sound intelligent, Mary spoke in <strong>archaic</strong> English that was right out of Jane Austens Pride and Prejudice--needless to say, she didnt have many friends."
+}, {
+"word": "ascendancy",
+"type": "<strong>noun:</strong> the state that exists when one person or group has power over another",
+"tag": "new word",
+"script": "The <strong>ascendancy</strong> of the Carlsbad water polo team is clear—they have a decade of championships behind them."
+}, {
+"word": "autonomously",
+"type": "<strong>adverb:</strong> Acting independently; self-governing (of a country)",
+"tag": "new word",
+"script": "Many of the factory workers are worried about being replaced by machines and computers that will work completely <strong>autonomously</strong>."
+}, {
+"word": "avid",
+"type": "<strong>adjective:</strong> marked by active interest and enthusiasm",
+"tag": "new word",
+"script": "Martin is an <strong>avid</strong> birdwatcher, often taking long hikes into remote mountains to see some rare eagle."
+}, {
+"word": "boon",
+"type": "<strong>noun:</strong> a desirable state",
+"tag": "new word",
+"script": "Modern technology has been a <strong>boon</strong> to the travel industry.<br/> < strong > adjective: < /strong> very close and convivial<br/ > He was a < strong > boon < /strong> companion to many, and will be sadly missed."
+}, {
+"word": "consummate",
+"type": "<strong>adjective:</strong> having or revealing supreme mastery or skill",
+"tag": "new word",
+"script": "Tyler was the <strong>consummate</strong> musician: he was able to play the guitar, harmonica, and the drum at the same time.<br/><strong>verb:</strong> to make perfect and complete in every respect<br/>The restoration of the ancient church was only <strong>consummated</strong> after a twenty years of labor."
+}, {
+"word": "dearth",
+"type": "<strong>noun:</strong> a lack or shortage",
+"tag": "new word",
+"script": "I am surprised by the <strong>dearth</strong> of fast food chains; this is America and I assumed they were on every street."
+}, {
+"word": "degrade",
+"type": "<strong>verb:</strong> reduce in worth or character, usually verbally",
+"tag": "new word",
+"script": "Jesse had mockingly pointed out all of Nancys faults in front of their friends, publicly <strong>degrading</strong> the poor girl."
+}, {
+"word": "deter",
+"type": "<strong>verb:</strong> turn away from by persuasion",
+"tag": "new word",
+"script": "His mother tried to <strong>deter</strong> him from joining the army, but he was too intoxicated with the idea of war to listen.<br/><strong>verb:</strong> try to prevent; show opposition to<br/>The governments primary job should involve <strong>deterring</strong> paths to war, not finding ways to start them."
+}, {
+"word": "discriminate",
+"type": "<strong>verb:</strong> recognize or perceive the difference",
+"tag": "new word",
+"script": "Sarah couldnt <strong>discriminate</strong> between a good wine and a bad wine, so she avoided wine tastings."
+}, {
+"word": "disenfranchise",
+"type": "<strong>verb:</strong> deprive of voting rights",
+"tag": "new word",
+"script": "The U.S. Constitution <strong>disenfranchised</strong> women until 1920 when they were given the right to vote."
+}, {
+"word": "disheartened",
+"type": "<strong>adjective:</strong> made less hopeful or enthusiastic",
+"tag": "new word",
+"script": "After the visiting team scored nine times, the home teams fans were <strong>disheartened</strong>, some leaving the game early."
+}, {
+"word": "elusive",
+"type": "<strong>adjective:</strong> difficult to capture or difficult to remember",
+"tag": "new word",
+"script": "Many first time skydivers say that describing the act of falling from the sky is <strong>elusive</strong>."
+}, {
+"word": "endemic",
+"type": "<strong>adjective:</strong> native; originating where it is found",
+"tag": "new word",
+"script": "Irish cuisine makes great use of potatoes, but ironically, the potato is not <strong>endemic</strong> to Ireland."
+}, {
+"word": "entice",
+"type": "<strong>verb:</strong> get someone to do something through (often false or exaggerated) promises",
+"tag": "new word",
+"script": "Harold <strong>enticed</strong> his wife, Maude, to go on a vacation to Hawaii, with promises of luaus on the beach and all-you-can-eat seafood buffets."
+}, {
+"word": "fete",
+"type": "<strong>verb:</strong> to celebrate a person",
+"tag": "new word",
+"script": "After World War II, war heroes were <strong>feted</strong> at first but quickly forgotten."
+}, {
+"word": "fledgling",
+"type": "<strong>adjective:</strong> young and inexperienced <br>\r\n<strong>noun:</strong> any new participant in some activity",
+"tag": "new word",
+"script": "Murray has years of experience in family practice, but he is just a <strong>fledgling</strong> in surgery."
+}, {
+"word": "flounder",
+"type": "<strong>verb:</strong> behave awkwardly; have difficulties",
+"tag": "new word",
+"script": "Sylvia has excelled at advanced calculus, but ironically, when she has to deal with taxes, she <strong>flounders</strong>."
+}, {
+"word": "guffaw",
+"type": "<strong>verb:</strong> laugh boisterously",
+"tag": "new word",
+"script": "Whenever the jester fell to the ground in mock pain, the king <strong>guffawed</strong>, exposing his yellow, fang-like teeth."
+}, {
+"word": "impede",
+"type": "<strong>verb:</strong> be a hindrance or obstacle to",
+"tag": "new word",
+"script": "Since the police sergeant had to train the pair of new hires, progress in his own case was <strong>impeded</strong>."
+}, {
+"word": "impermeable",
+"type": "<strong>adjective:</strong> does not allow fluids to pass through",
+"tag": "new word",
+"script": "The sand bags placed on the river formed an <strong>impermeable</strong> barrier, protecting the town from flooding."
+}, {
+"word": "incessant",
+"type": "<strong>adjective:</strong> uninterrupted in time and indefinitely long continuing",
+"tag": "new word",
+"script": "I dont mind small children in brief doses, but I think the <strong>incessant</strong> exposure that their parents have to them would quickly wear me down."
+}, {
+"word": "inclement",
+"type": "<strong>adjective:</strong> (of weather) unpleasant, stormy",
+"tag": "new word",
+"script": "After a week of <strong>inclement</strong> weather, we finally are able to go outside and enjoy the sun.<br/><strong>adjective:</strong> used of persons or behavior; showing no mercy<br/>Marcus Aurelius, though a fair man, was <strong>inclement</strong> to Christians during his reign, persecuting them violently."
+}, {
+"word": "ingenuity",
+"type": "<strong>noun:</strong> the power of creative imagination",
+"tag": "new word",
+"script": "Daedalus was famous for his <strong>ingenuity</strong>; he was able to fashion his son Icarus with a pair of wings, using wax to hold them together."
+}, {
+"word": "jocular",
+"type": "<strong>adjective:</strong> characterized by jokes and good humor",
+"tag": "new word",
+"script": "My uncle was always in a <strong>jocular</strong> mood at family gatherings, messing up peoples hair and telling knock-knock jokes to anyone who would listen."
+}, {
+"word": "malady",
+"type": "<strong>noun:</strong> a disease or sickness",
+"tag": "new word",
+"script": "The town was struck by a <strong>malady</strong> throughout the winter that left most people sick in bed for two weeks."
+}, {
+"word": "malleable",
+"type": "<strong>adjective:</strong> capable of being shaped or bent or drawn out",
+"tag": "new word",
+"script": "The clay became <strong>malleable</strong> and easy to work with after a little water was added.<br/><strong>adjective:</strong> easily influenced<br/>My little brother is so <strong>malleable</strong> that I can convince him to sneak cookies from the cupboard for me."
+}, {
+"word": "meander",
+"type": "<strong>verb:</strong> to wander aimlessly",
+"tag": "new word",
+"script": "A casual observer might have thought that Peter was <strong>meandering</strong> through the city, but that day he was actually seeking out those places where he and his long lost love had once visited."
+}, {
+"word": "moot",
+"type": "<strong>adjective:</strong> open to argument or debate; undecidable in a meaningless or irrelevant way",
+"tag": "new word",
+"script": "Since the Board just terminated Steve as the CEO, what the finance committee might have thought of his proposed marketing plan for next year is now a <strong>moot</strong> point."
+}, {
+"word": "morose",
+"type": "<strong>adjective:</strong> ill-tempered and not inclined to talk; gloomy",
+"tag": "new word",
+"script": "After Stanley found out he was no longer able to go on vacation with his friends, he sat in his room <strong>morosely</strong>."
+}, {
+"word": "muted",
+"type": "<strong>adjective:</strong> softened, subdued",
+"tag": "new word",
+"script": "Helen preferred <strong>muted</strong> earth colors, such as green and brown, to the bright pinks and red her sister liked."
+}, {
+"word": "obdurate",
+"type": "<strong>adjective:</strong> unable to be persuaded or moved emotionally; stubborn; unyielding.",
+"tag": "new word",
+"script": "No number of pleas and bribes would get him to change his <strong>obdurate</strong> attitude."
+}, {
+"word": "ornate",
+"type": "<strong>adjective:</strong> marked by elaborate rhetoric and elaborated with decorative details",
+"tag": "new word",
+"script": "The <strong>ornate</strong> Victorian and Edwardian homes spread throughout San Francisco are my favorite part of the city."
+}, {
+"word": "patronize",
+"type": "<strong>verb:</strong> treat condescendingly",
+"tag": "new word",
+"script": "She says she genuinely wanted to help me, but instead she <strong>patronized</strong> me, constantly pointing out how I was inferior to her."
+}, {
+"word": "pithy",
+"type": "<strong>adjective:</strong> concise and full of meaning",
+"tag": "new word",
+"script": "I enjoy reading the Daodejing for its <strong>pithy</strong> and insightful prose; it always gives me something to think about."
+}, {
+"word": "plodding",
+"type": "<strong>adjective:</strong> (of movement) slow and laborious",
+"tag": "new word",
+"script": "Charlie may seem to run at a <strong>plodding</strong> pace, but he is an ultramarathoner, meaning he runs distances of up to 100 miles, and can run for ten hours at a stretch."
+}, {
+"word": "proponent",
+"type": "<strong>noun:</strong> a person who pleads for a cause or propounds an idea",
+"tag": "new word",
+"script": "Ironically, the leading <strong>proponent</strong> of Flat-Earth Theory flies all over the world in an effort to win more adherents."
+}, {
+"word": "quandary",
+"type": "<strong>noun:</strong> state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options",
+"tag": "new word",
+"script": "Steve certainly is in a <strong>quandary</strong>: if he doesnt call Elaine, she will blame him for everything, but if he does call her, the evidence of where he currently is could cost him his job."
+}, {
+"word": "raffish",
+"type": "<strong>adjective:</strong> marked by a carefree unconventionality or disreputableness",
+"tag": "new word",
+"script": "The men found him <strong>raffish</strong>, but the women adored his smart clothes and casual attitude."
+}, {
+"word": "renege",
+"type": "<strong>verb:</strong> fail to fulfill a promise or obligation",
+"tag": "new word",
+"script": "We will no longer work with that vendor since it has <strong>reneged</strong> on nearly every agreement."
+}, {
+"word": "resolve",
+"type": "<strong>verb:</strong> reach a conclusion after a discussion or deliberation",
+"tag": "new word",
+"script": "After much thought, Ted <strong>resolved</strong> not to travel abroad this summer because he didnt have much money in his bank account."
+}, {
+"word": "respite",
+"type": "<strong>noun:</strong> a pause from doing something (as work)",
+"tag": "new word",
+"script": "Every afternoon, the small company has a <strong>respite</strong> in which workers play foosball or board games."
+}, {
+"word": "robust",
+"type": "<strong>adjective:</strong> sturdy and strong in form, constitution, or construction",
+"tag": "new word",
+"script": "Chris preferred bland and mild beers, but Bhavin preferred a beer with more <strong>robust</strong> flavor."
+}, {
+"word": "snide",
+"type": "<strong>adjective:</strong> expressive of contempt; derogatory or mocking in an indirect way",
+"tag": "new word",
+"script": "The chairman interpreted Taylors question about promotions as a <strong>snide</strong> remark, but in all innocence Taylor was trying to figure out the companys process."
+}, {
+"word": "stolid",
+"type": "<strong>adjective:</strong> having or revealing little emotion or sensibility; not easily aroused or excited",
+"tag": "new word",
+"script": "Elephants may appear <strong>stolid</strong> to casual observers, but they actually have passionate emotional lives."
+}, {
+"word": "thwart",
+"type": "<strong>verb:</strong> hinder or prevent (the efforts, plans, or desires) of",
+"tag": "new word",
+"script": "I wanted to spend a week in New York this autumn, but the high costs of travel and lodging <strong>thwarted</strong> my plans."
+}, {
+"word": "transitory",
+"type": "<strong>adjective:</strong> lasting a very short time",
+"tag": "new word",
+"script": "If we lived forever and life was not <strong>transitory</strong>, do you think we would appreciate life less or more?"
+}]
+}, {
+"name": "Common Word X",
+"numberCard": 50,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "altruism",
+"type": "<strong>noun:</strong> the quality of unselfish concern for the welfare of others",
+"tag": "new word",
+"script": "Albert Schweitzer spent most of his life doing missionary work as a doctor in Africa, seeking no reward, apparently motivated only by <strong>altruism</strong>."
+}, {
+"word": "assail",
+"type": "<strong>verb:</strong> attack in speech or writing",
+"tag": "new word",
+"script": "In the weekly paper, the editor <strong>assailed</strong> the governor for wasting hundreds of thousands of dollars in public projects that quickly failed."
+}, {
+"word": "assuage",
+"type": "<strong>verb:</strong> make something intense less severe",
+"tag": "new word",
+"script": "Her fear that the new college would be filled with unknown faces was <strong>assuaged</strong> when she recognized her childhood friend standing in line."
+}, {
+"word": "augment",
+"type": "<strong>verb:</strong> enlarge or increase; improve",
+"tag": "new word",
+"script": "Ideally, the restaurants <strong>augmented</strong> menu will expand its clientele and increase its profits."
+}, {
+"word": "banish",
+"type": "<strong>verb:</strong> expel from a community, residence, or location; drive away",
+"tag": "new word",
+"script": "The most difficult part of the fast was <strong>banishing</strong> thoughts of food."
+}, {
+"word": "benign",
+"type": "<strong>adjective:</strong> kind",
+"tag": "new word",
+"script": "I remember my grandfathers face was wrinkled, <strong>benign</strong>, and calm.<br/><strong>adjective:</strong> (medicine) not dangerous to health; not recurrent or progressive<br/>The tumor located in your ear lobe seems to be <strong>benign</strong> and should not cause you any trouble."
+}, {
+"word": "buck",
+"type": "<strong>verb:</strong> resist",
+"tag": "new word",
+"script": "The profits at our firm <strong>bucked</strong> the general downturn that affected the real estate industry."
+}, {
+"word": "commendable",
+"type": "<strong>adjective:</strong> worthy of high praise",
+"tag": "new word",
+"script": "The efforts of the firefighters running into the burning building were <strong>commendable</strong>."
+}, {
+"word": "conducive",
+"type": "<strong>adjective:</strong> making a situation or outcome more likely to happen",
+"tag": "new word",
+"script": "Studying in a quiet room is <strong>conducive</strong> to learning; studying in a noisy environment makes learning more difficult."
+}, {
+"word": "contemptuous",
+"type": "<strong>adjective:</strong> scornful, looking down at others with a sneering attitude",
+"tag": "new word",
+"script": "Always on the forefront of fashion, Vanessa looked <strong>contemptuously</strong> at anyone wearing dated clothing."
+}, {
+"word": "cornucopia",
+"type": "<strong>noun:</strong> an abundant supply of something good",
+"tag": "new word",
+"script": "The International Food Expo was a <strong>cornucopia</strong> of culinary delights: gourmet foods from every continent were under one roof."
+}, {
+"word": "credence",
+"type": "<strong>noun:</strong> belief in something",
+"tag": "new word",
+"script": "He placed no <strong>credence</strong> in psychics, claiming that they offered no special powers beyond the ability to make people part with their money."
+}, {
+"word": "debase",
+"type": "<strong>verb:</strong> reduce the quality or value of something",
+"tag": "new word",
+"script": "The third-rate script so <strong>debased</strong> the film that not even the flawless acting could save it from being a flop."
+}, {
+"word": "derisive",
+"type": "<strong>adjective:</strong> abusing vocally; expressing contempt or ridicule",
+"tag": "new word",
+"script": "I was surprised by her <strong>derisive</strong> tone; usually, she is sweet, soft spoken, and congenial."
+}, {
+"word": "detrimental",
+"type": "<strong>adjective:</strong> (sometimes followed by \"to\") causing harm or injury",
+"tag": "new word",
+"script": "Many know that smoking is <strong>detrimental</strong> to your health, but processed sugar in large quantities is equally bad."
+}, {
+"word": "egotist",
+"type": "<strong>noun:</strong> a conceited and self-centered person",
+"tag": "new word",
+"script": "An <strong>egotist</strong>, Natasha had few friends because of her inability to talk about anything except her dream of becoming the next American Idol."
+}, {
+"word": "elaborate",
+"type": "<strong>adjective:</strong> marked by complexity and richness of detail",
+"tag": "new word",
+"script": "Thomas, on returning from Morocco, replaced his dirty gray carpet with an <strong>elaborate</strong> one hed brought back with him.<br/><strong>verb:</strong> explain in more detail<br/>Most high school physics teachers find themselves <strong>elaborating</strong> the same point over and over again, since many concepts confuse students."
+}, {
+"word": "empathetic",
+"type": "<strong>adjective:</strong> showing understanding and ready comprehension of other peoples states and emotions",
+"tag": "new word",
+"script": "Most discrimination and hatred is based on a lack of <strong>empathetic</strong> awareness of people that have the same aspirations and fears."
+}, {
+"word": "euphoria",
+"type": "<strong>noun:</strong> a feeling of great (usually exaggerated) elation",
+"tag": "new word",
+"script": "The <strong>euphoria</strong> of winning her first gold medal in the 100 meter dash overwhelmed Shelly-Ann Fraser and she wept tears of immense joy."
+}, {
+"word": "facetious",
+"type": "<strong>adjective:</strong> cleverly amusing in tone",
+"tag": "new word",
+"script": "<strong>Facetious</strong> behavior will not be tolerated during sex education class; its time for all of you to treat these matters like mature adults."
+}, {
+"word": "fickle",
+"type": "<strong>adjective:</strong> liable to sudden unpredictable change, esp. in affections or attachments",
+"tag": "new word",
+"script": "She was so <strong>fickle</strong> in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it."
+}, {
+"word": "genial",
+"type": "<strong>adjective:</strong> agreeable, conducive to comfort",
+"tag": "new word",
+"script": "Betty is a <strong>genial</strong> young woman: everyone she meets is put at ease by her elegance and grace."
+}, {
+"word": "genteel",
+"type": "<strong>adjective:</strong> marked by refinement in taste and manners",
+"tag": "new word",
+"script": "A live string quartet would provide a more <strong>genteel</strong> air to the wedding than would a folk singer."
+}, {
+"word": "glib",
+"type": "<strong>adjective:</strong> (of a person) speaking with ease but without sincerity",
+"tag": "new word",
+"script": "I have found that the more <strong>glib</strong> the salesman, the worse the product."
+}, {
+"word": "grovel",
+"type": "<strong>verb:</strong> show submission or fear",
+"tag": "new word",
+"script": "Every time Susan comes to the office, Frank <strong>grovels</strong> as if she were about to fire him."
+}, {
+"word": "hamstrung",
+"type": "<strong>verb:</strong> made ineffective or powerless",
+"tag": "new word",
+"script": "The FBI has made so many restrictions on the local police that they are absolutely <strong>hamstrung</strong>, unable to accomplish anything."
+}, {
+"word": "illicit",
+"type": "<strong>adjective:</strong> contrary to or forbidden by law",
+"tag": "new word",
+"script": "Though Al Capone was engaged in many <strong>illicit</strong> activities, he was finally arrested for income tax evasion, a relatively minor offense."
+}, {
+"word": "impeccable",
+"type": "<strong>adjective:</strong> without fault or error",
+"tag": "new word",
+"script": "He was <strong>impeccably</strong> dressed in the latest fashion without a single crease or stain."
+}, {
+"word": "inadvertent",
+"type": "<strong>adjective:</strong> happening by chance or unexpectedly or unintentionally",
+"tag": "new word",
+"script": "Although Prohibition was rooted in noble ideals, the <strong>inadvertent</strong> and costly consequences of making alcohol illegal in the U.S. led to its repeal."
+}, {
+"word": "irresolute",
+"type": "<strong>adjective:</strong> uncertain how to act or proceed",
+"tag": "new word",
+"script": "He stood <strong>irresolute</strong> at the split in the trail, not sure which route would lead back to the camp."
+}, {
+"word": "jargon",
+"type": "<strong>noun:</strong> a characteristic language of a particular group",
+"tag": "new word",
+"script": "To those with little training in medicine, the <strong>jargon</strong> of doctors can be very difficult to understand."
+}, {
+"word": "lucid",
+"type": "<strong>adjective:</strong> (of language) transparently clear; easily understandable",
+"tag": "new word",
+"script": "Though Walters writes about physics and time travel, his writing is always <strong>lucid</strong>, so readers with little scientific training can understand difficult concepts."
+}, {
+"word": "martial",
+"type": "<strong>adjective:</strong> suggesting war or military life",
+"tag": "new word",
+"script": "Americans tend to remember Abraham Lincoln as kindly and wise, not at all <strong>martial</strong>, despite the fact that he was involved in the fiercest war America has even fought."
+}, {
+"word": "perennial",
+"type": "<strong>adjective:</strong> lasting an indefinitely long time; eternal; everlasting",
+"tag": "new word",
+"script": "Even at the old-timers games, Stan Musial would get the loudest cheer: he was a <strong>perennial</strong> favorite of the fans there."
+}, {
+"word": "perpetuate",
+"type": "<strong>verb:</strong> cause to continue",
+"tag": "new word",
+"script": "If you do not let him do things for himself, you are merely <strong>perpetuating</strong> bad habits that will be even harder to break in the future."
+}, {
+"word": "pertinent",
+"type": "<strong>adjective:</strong> having precise or logical relevance to the matter at hand",
+"tag": "new word",
+"script": "While the salaries of the players might draw attention in the media, such monetary figures are not <strong>pertinent</strong> to the question of who plays the best on the field."
+}, {
+"word": "precedent",
+"type": "<strong>noun:</strong> an example that is used to justify similar occurrences at a later time",
+"tag": "new word",
+"script": "The principal explained that even though one student had done modelling work outside of school, the outfits that student wore in those photographs in no way established a <strong>precedent</strong> for what could be worn at school dances."
+}, {
+"word": "pristine",
+"type": "<strong>adjective:</strong> Unspoiled, untouched (usu. of nature)",
+"tag": "new word",
+"script": "The glacial lake was <strong>pristine</strong> and we filled our canteens to drink deeply.<br/><strong>adjective:</strong> Immaculately clean and unused<br/>Drill sergeants are known for demanding <strong>pristine</strong> cabinets, uniforms, and beds, and often make new recruits clean and clean and clean until they meet the expected high standards."
+}, {
+"word": "rankle",
+"type": "<strong>verb:</strong> gnaw into make resentful or angry",
+"tag": "new word",
+"script": "His constant whistling would <strong>rankle</strong> her, sometimes causing her to leave in a huff."
+}, {
+"word": "sentimental",
+"type": "<strong>adjective:</strong> effusively or insincerely emotional, especially in art, music, and literature",
+"tag": "new word",
+"script": "I dont like romanticism for the same reason I dont like melodramatic acting and soap operas—overly <strong>sentimental</strong>."
+}, {
+"word": "smattering",
+"type": "<strong>noun:</strong> a slight or superficial understanding of a subject; a small amount of something",
+"tag": "new word",
+"script": "I know only a <strong>smattering</strong> of German, but Helen is able to read German newspapers and converse with natives."
+}, {
+"word": "spurn",
+"type": "<strong>verb:</strong> reject with contempt",
+"tag": "new word",
+"script": "She <strong>spurned</strong> all his flattery and proposals, and so he walked off embarrassed and sad."
+}, {
+"word": "surly",
+"type": "<strong>adjective:</strong> inclined to anger or bad feelings with overtones of menace",
+"tag": "new word",
+"script": "Every morning, Bhavin was a <strong>surly</strong>, unhappy person, but once he ate breakfast, he became loving, laughing, and a joy to be around."
+}, {
+"word": "tawdry",
+"type": "<strong>adjective:</strong> tastelessly showy; cheap and shoddy",
+"tag": "new word",
+"script": "Carol expected to find New York City magical, the way so many movies had portrayed it, but she was surprised how often <strong>tawdry</strong> displays took the place of genuine elegance."
+}, {
+"word": "tumult",
+"type": "<strong>noun:</strong> a state of chaos, noise and confusion",
+"tag": "new word",
+"script": "Riots broke out just in front of our apartment building, and the <strong>tumult</strong> continued late into the night."
+}, {
+"word": "uncompromising",
+"type": "<strong>adjective:</strong> not making concessions",
+"tag": "new word",
+"script": "The relationship between Bart and Hilda ultimately failed because they were both so <strong>uncompromising</strong>, never wanting to change their opinions."
+}, {
+"word": "unruly",
+"type": "<strong>adjective:</strong> (of persons) noisy and lacking in restraint or discipline; unwilling to submit to authority",
+"tag": "new word",
+"script": "Walk in to any preschool and I am sure that you will find an <strong>unruly</strong> and chaotic scene—unless its nap time."
+}, {
+"word": "urbane",
+"type": "<strong>adjective:</strong> showing a high degree of refinement and the assurance that comes from wide social experience",
+"tag": "new word",
+"script": "Because of his service as an intelligence officer and his refined tastes, W. Somerset Maugham became the inspiration for the <strong>urbane</strong> and sophisticate spy James Bond."
+}, {
+"word": "vacuous",
+"type": "<strong>adjective:</strong> devoid of intelligence, matter, or significance",
+"tag": "new word",
+"script": "To the journalists pointed question, the senator gave a <strong>vacuous</strong> response, mixing a few of his overall campaign slogans with platitudes and completely avoiding the controversial subject of the question."
+}, {
+"word": "whimsical",
+"type": "<strong>adjective:</strong> determined by impulse or whim rather than by necessity or reason",
+"tag": "new word",
+"script": "Adults look to kids and envy their <strong>whimsical</strong> nature at times, wishing that they could act without reason and play without limitation."
+}]
+}, {
+"name": "Common Word XI",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "aphoristic",
+"type": "<strong>adjective:</strong> something that is concise and instructive of a general truth or principle",
+"tag": "new word",
+"script": "Sometimes I cant stand Nathan because he tries to impress everyone by being <strong>aphoristic</strong>, but he just states the obvious."
+}, {
+"word": "brusquely",
+"type": "<strong>adverb:</strong> in a blunt, direct manner",
+"tag": "new word",
+"script": "Not one for social pleasantries, the Chief of Staff would <strong>brusquely</strong> ask his subordinates anything he wanted, even coffee."
+}, {
+"word": "candidness",
+"type": "<strong>noun:</strong> the quality of being honest and straightforward in attitude and speech",
+"tag": "new word",
+"script": "Although I was unhappy that the relationship ended, I appreciated her <strong>candidness</strong> about why she was ready to move on from the relationship."
+}, {
+"word": "collusion",
+"type": "<strong>noun:</strong> agreement on a secret plot",
+"tag": "new word",
+"script": "Many have argued that Lee Harvey Oswald, JFKs assassin, was in <strong>collusion</strong> with other criminals; others maintain that Oswald was a lone gunman."
+}, {
+"word": "complacent",
+"type": "<strong>adjective:</strong> contented to a fault with oneself or ones actions",
+"tag": "new word",
+"script": "After the water polo team won their sixth championship, they became <strong>complacent</strong> and didnt even make it to the playoffs the next year."
+}, {
+"word": "connive",
+"type": "<strong>verb:</strong> taking part in immoral and unethical plots",
+"tag": "new word",
+"script": "With the help of the prince, the queen <strong>connived</strong> to overthrow the king."
+}, {
+"word": "convoluted",
+"type": "<strong>adjective:</strong> highly complex or intricate",
+"tag": "new word",
+"script": "Instead of solving the math problem in three simple steps, Kumar used a <strong>convoluted</strong> solution requiring fifteen steps."
+}, {
+"word": "credulity",
+"type": "<strong>noun:</strong> tendency to believe readily",
+"tag": "new word",
+"script": "Virginias wide-eyed <strong>credulity</strong> as a five-year old was replaced by suspicion after she learned that Santa Claus didnt really exist."
+}, {
+"word": "derogative",
+"type": "<strong>adjective:</strong> expressed as worthless or in negative terms",
+"tag": "new word",
+"script": "Never before have we seen a debate between two political candidates that was so <strong>derogative</strong> and filthy."
+}, {
+"word": "destitute",
+"type": "<strong>adjective:</strong> poor enough to need help from others",
+"tag": "new word",
+"script": "Jean Valjean, is at first <strong>destitute</strong>, but through the grace of a priest, he makes something of his life.<br/><strong>adjective:</strong> completely wanting or lacking (usually \"destitute of\")<br/>Now that the mine is closed,the town is < strong > destitute < /strong> of any economic activity."
+}, {
+"word": "devolve",
+"type": "<strong>verb:</strong> pass on or delegate to another",
+"tag": "new word",
+"script": "The company was full of managers known for <strong>devolving</strong> tasks to lower management, but never doing much work themselves.<br/><strong>verb:</strong> grow worse (usually \"devolve into\")<br/>The dialogue between the two academics <strong>devolved</strong> into a downright bitter argument."
+}, {
+"word": "diligent",
+"type": "<strong>adjective:</strong> characterized by care and perseverance in carrying out tasks",
+"tag": "new word",
+"script": "Michael was a <strong>diligent</strong> gardener, never leaving a leaf on the ground and regularly watering each plant."
+}, {
+"word": "discord",
+"type": "<strong>noun:</strong> lack of agreement or harmony",
+"tag": "new word",
+"script": "Despite all their talented players, the team was filled with <strong>discord</strong>--some players refused to talk to others--and lost most of their games."
+}, {
+"word": "eke",
+"type": "<strong>verb:</strong> To live off meager resources, to scrape by",
+"tag": "new word",
+"script": "Stranded in a cabin over the winter, Terry was able to <strong>eke</strong> out an existence on canned food."
+}, {
+"word": "elude",
+"type": "<strong>verb:</strong> escape understanding",
+"tag": "new word",
+"script": "While some physics concepts might <strong>elude</strong> newbies, with a little grit and a good teacher, almost anyone can develop a deep understanding of the subject."
+}, {
+"word": "embellish",
+"type": "<strong>verb:</strong> make more attractive by adding ornament, colour, etc.; make more beautiful",
+"tag": "new word",
+"script": "McCartney would write relatively straightforward lyrics, and Lennon would <strong>embellish</strong> them with puns and poetic images."
+}, {
+"word": "enmity",
+"type": "<strong>noun:</strong> a state of deep-seated ill-will",
+"tag": "new word",
+"script": "The rude remark Charles made toward Sarah yesterday was due to his illness, not due to any real <strong>enmity</strong> toward Sarah."
+}, {
+"word": "exasperate",
+"type": "<strong>verb:</strong> to irritate intensely",
+"tag": "new word",
+"script": "As a child, I <strong>exasperated</strong> my mother with strings of never-ending questions."
+}, {
+"word": "exemplify",
+"type": "<strong>verb:</strong> be characteristic of",
+"tag": "new word",
+"script": "Lincoln <strong>exemplified</strong> the best of not only America, but also the potential greatness that exists within each person.<br/><strong>verb:</strong> clarify by giving an example of<br/>Please present some case studies that <strong>exemplify</strong> the results that you claim in your paper."
+}, {
+"word": "foible",
+"type": "<strong>noun:</strong> a behavioral attribute that is distinctive and peculiar to an individual",
+"tag": "new word",
+"script": "When their new roommate sat staring at an oak tree for an hour, Marcia thought it indicated a mental problem, but Jeff assured her it was a harmless <strong>foible</strong>."
+}, {
+"word": "goad",
+"type": "<strong>verb:</strong> urge on with unpleasant comments",
+"tag": "new word",
+"script": "Doug did not want to enter the race, but Jim, through a steady stream of taunts, <strong>goaded</strong> him into signing up for it."
+}, {
+"word": "impending",
+"type": "<strong>adjective:</strong> close in time; about to occur",
+"tag": "new word",
+"script": "The <strong>impending</strong> doom of our world has been discussed and debated for 2000 years—maybe even longer."
+}, {
+"word": "impregnable",
+"type": "<strong>adjective:</strong> immune to attack; incapable of being tampered with",
+"tag": "new word",
+"script": "As a child, Amy would build pillow castles and pretend they were <strong>impregnable</strong> fortresses."
+}, {
+"word": "irk",
+"type": "<strong>verb:</strong> irritate or vex",
+"tag": "new word",
+"script": "My little sister has a way of <strong>irking</strong> and annoying me like no other person."
+}, {
+"word": "leery",
+"type": "<strong>adjective:</strong> openly distrustful and unwilling to confide",
+"tag": "new word",
+"script": "Without checking his references and talking  to previous employers, I am <strong>leery</strong> of hiring the candidate."
+}, {
+"word": "malevolent",
+"type": "<strong>adjective:</strong> wishing or appearing to wish evil to others; arising from intense ill will or hatred",
+"tag": "new word",
+"script": "Villains are known for their <strong>malevolent</strong> nature, oftentimes inflicting cruelty on others just for enjoyment."
+}, {
+"word": "maxim",
+"type": "<strong>noun:</strong> a short saying expressing a general truth",
+"tag": "new word",
+"script": "Johnson initially suggests that the secret to business can be summarized in a single <strong>maxim</strong> but then requires a 300-page book to explain exactly what he means."
+}, {
+"word": "obstinate",
+"type": "<strong>adjective:</strong> resistant to guidance or discipline; stubbornly persistent",
+"tag": "new word",
+"script": "The coach suggested improvements Sarah might make on the balance beam, but she remained <strong>obstinate</strong>, unwilling to modify any of the habits that made her successful in the past."
+}, {
+"word": "pastoral",
+"type": "<strong>adjective:</strong> relating to the countryside in a pleasant sense",
+"tag": "new word",
+"script": "Those who imagine Americas countryside as a <strong>pastoral</strong> region are often disappointed to learn that much of rural U.S. is filled with cornfields extending as far as the eye can see."
+}, {
+"word": "peevish",
+"type": "<strong>adjective:</strong> easily irritated or annoyed",
+"tag": "new word",
+"script": "Our office manager is <strong>peevish</strong>, so the rest of us tip-toe around him, hoping not to set off another one of his fits."
+}, {
+"word": "perturb",
+"type": "<strong>verb:</strong> disturb in mind or cause to be worried or alarmed",
+"tag": "new word",
+"script": "Now that Henry is recovering from a major illnesses, he no longer lets the little trivialities, such as late mail, <strong>perturb</strong> him."
+}, {
+"word": "placid",
+"type": "<strong>adjective:</strong> not easily irritated",
+"tag": "new word",
+"script": "Doug is normally <strong>placid</strong>, so we were all shocked to see him yelling at the television when the Mets lost the game."
+}, {
+"word": "ploy",
+"type": "<strong>noun:</strong> a clever plan to turn a situation to ones advantage",
+"tag": "new word",
+"script": "Dennis arranged an elaborate <strong>ploy</strong>, involving 14 different people lying for him in different situations, so that it could appear that he was meeting Mary completely by chance at the wedding reception."
+}, {
+"word": "presumption",
+"type": "<strong>noun:</strong> an assumption that is taken for granted",
+"tag": "new word",
+"script": "When Mr. Baker found out the family car was gone, he acted under the <strong>presumption</strong> that his rebellious son had taken the car, calling his sons phone and yelling at him; only later did Mr. Baker realize that Mrs. Baker had simply gone out to get her nails done.<br/><strong>noun:</strong> audacious (even arrogant) behavior that you have no right to<br/>The new neighbor quickly gained a reputation for her <strong>presumption</strong>; she had invited herself to several neighbors homes, often stopping over at inopportune times and asking for a drink."
+}, {
+"word": "quip",
+"type": "<strong>noun:</strong> a witty saying or remark",
+"tag": "new word",
+"script": "In one of the most famous <strong>quips</strong> about classical music, Mark Twain said: \"Wagners music is better than it sounds.\"<br/><strong>verb:</strong> to make a witty remark, to say in jest<br/>When an old English teacher criticized Churchill for ending a sentence with a preposition, he <strong>quipped</strong>, \"This is the kind of criticism up with which we will not put!\"  "
+}, {
+"word": "rash",
+"type": "<strong>adjective:</strong> marked by defiant disregard for danger or consequences; imprudently incurring risk",
+"tag": "new word",
+"script": "Although Bruce was able to make the delivery in time with a nighttime motorcycle ride in the rain, Susan criticized his actions as <strong>rash</strong>."
+}, {
+"word": "reservation",
+"type": "<strong>noun:</strong> an unstated doubt that prevents you from accepting something wholeheartedly",
+"tag": "new word",
+"script": "I was initially excited by the idea of a trip to Washington, D.C.  but now that I have read about the high crime statistics there, I have some <strong>reservations</strong>."
+}, {
+"word": "retract",
+"type": "<strong>verb:</strong> pull inward or towards a center; formally reject or disavow a formerly held belief, usually under pressure",
+"tag": "new word",
+"script": "Email is wonderfully efficient, but once something awkward or damaging has been sent, there is no way to <strong>retract</strong> it."
+}, {
+"word": "savvy",
+"type": "<strong>noun:</strong> a perceptive understanding",
+"tag": "new word",
+"script": "Although a great CEO, he did not have the political <strong>savvy</strong> to win the election.<br/><strong>verb:</strong> get the meaning of something<br/>The student savvies the meaning of astrophysics with little effort.<br/><strong>adjective:</strong> well-informed or perceptive<br/>With his <strong>savvy</strong> business partner, the company was able to turn a profit within a year"
+}, {
+"word": "serene",
+"type": "<strong>adjective:</strong> calm and peaceful",
+"tag": "new word",
+"script": "Id never seen him so <strong>serene</strong>; usually, he was a knot of stress and anxiety from hours of trading on the stock exchange."
+}, {
+"word": "smug",
+"type": "<strong>adjective:</strong> marked by excessive complacency or self-satisfaction",
+"tag": "new word",
+"script": "When Phil was dating the model, he had a <strong>smug</strong> attitude that annoyed his buddies."
+}, {
+"word": "squander",
+"type": "<strong>verb:</strong> spend thoughtlessly; waste time, money, or an opportunity",
+"tag": "new word",
+"script": "Fearing his money would be <strong>squandered</strong> by his family, he gave all of it to charity when he died."
+}, {
+"word": "steadfast",
+"type": "<strong>adjective:</strong> marked by firm determination or resolution; not shakable",
+"tag": "new word",
+"script": "A good captain needs to be <strong>steadfast</strong>, continuing to hold the wheel and stay the course even during the most violent storm."
+}, {
+"word": "tact",
+"type": "<strong>noun:</strong> consideration in dealing with others and avoiding giving offense",
+"tag": "new word",
+"script": "In a tremendous display of <strong>tact</strong>, Shelly was able to maintain a strong friendship with Marcia, even though Marcias husband, Frank, confessed to finding Shelley more attractive than Marcia."
+}, {
+"word": "tarnish",
+"type": "<strong>verb:</strong> make dirty or spotty, as by exposure to air; also used metaphorically",
+"tag": "new word",
+"script": "Pete Rose was one of the best baseball players of his generation, but his involvement with gambling on baseball games has <strong>tarnished</strong> his image in the eyes of many."
+}, {
+"word": "taxing",
+"type": "<strong>adjective:</strong> use to the limit; exhaust",
+"tag": "new word",
+"script": "The hike to the summit of Mt. Whitney was so <strong>taxing</strong> that I could barely speak or stand up."
+}, {
+"word": "tout",
+"type": "<strong>verb:</strong> advertize in strongly positive terms; show off",
+"tag": "new word",
+"script": "At the conference, the CEO <strong>touted</strong> the extraordinary success of his companys Research & Development division."
+}, {
+"word": "travail",
+"type": "<strong>noun:</strong> use of physical or mental energy; hard work; agony or anguish",
+"tag": "new word",
+"script": "While they experienced nothing but <strong>travails</strong> in refinishing the kitchen, they completed the master bedroom in less than a weekend."
+}, {
+"word": "unprecedented",
+"type": "<strong>adjective:</strong> having never been done or known before; novel",
+"tag": "new word",
+"script": "When America first created its national parks, the idea of setting aside the most beautiful land in a country was <strong>unprecedented</strong> in the history of mankind."
+}, {
+"word": "unseemly",
+"type": "<strong>adjective:</strong> not in keeping with accepted standards of what is right or proper in polite society",
+"tag": "new word",
+"script": "He acted in an <strong>unseemly</strong> manner, insulting the hostess and then speaking ill of her deceased husband."
+}]
+}, {
+"name": "Common Word XII",
+"numberCard": 50,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "analogous",
+"type": "<strong>adjective:</strong> similar in some respects but otherwise different",
+"tag": "new word",
+"script": "In many ways, the Internets transformative effect on society has been <strong>analogous</strong> to that of the printing press."
+}, {
+"word": "antedate",
+"type": "<strong>verb:</strong> precede in time",
+"tag": "new word",
+"script": "Harry was so unknowledgable that he was unaware the Egyptian pharaohs <strong>antedate</strong>d the American Revolution."
+}, {
+"word": "ascribe",
+"type": "<strong>verb:</strong> attribute or credit to",
+"tag": "new word",
+"script": "History <strong>ascribes</strong> The Odyssey and The Iliad to Homer, but scholars now debate whether he was a historical figure or a fictitious name."
+}, {
+"word": "avert",
+"type": "<strong>verb:</strong> turn away",
+"tag": "new word",
+"script": "Afraid to see the aftermath of the car crash, I <strong>averted</strong> my eyes as we drove by.<br/><strong>verb:</strong> ward off or prevent<br/>The struggling video game company put all of its finances into one final, desperate project to <strong>avert</strong> bankruptcy."
+}, {
+"word": "begrudge",
+"type": "<strong>verb:</strong> to envy someone for possessing or enjoying something",
+"tag": "new word",
+"script": "Sitting all alone in his room, Harvey <strong>begrudged</strong> the happiness of the other children playing outside his window.<br/><strong>verb:</strong> to give reluctantly<br/>We never <strong>begrudge</strong> money spent on ourselves."
+}, {
+"word": "behoove",
+"type": "<strong>verb:</strong> to be ones duty or obligation",
+"tag": "new word",
+"script": "The teacher looked down at the student and said, \"It would <strong>behoove</strong> you to be in class on time and complete your homework, so that you dont repeat freshman English for a third straight year.\""
+}, {
+"word": "belittle",
+"type": "<strong>verb:</strong> lessen the importance, dignity, or reputation of",
+"tag": "new word",
+"script": "A good teacher will never < strong > belittle < /strong> his students, but will instead empower them."
+
+}, {
+"word": "besmirch",
+"type": "<strong>verb:</strong> damage the good name and reputation of someone",
+"tag": "new word",
+"script": "The princes distasteful choice of words <strong>besmirched</strong> not only his own name, but the reputation of the entire royal family."
+}, {
+"word": "buttress",
+"type": "<strong>verb:</strong> make stronger or defensible",
+"tag": "new word",
+"script": "Chinas economy has been <strong>buttressed</strong> by a global demand for the electronic parts the country manufactures."
+}, {
+"word": "cavalier",
+"type": "<strong>adjective:</strong> given to haughty disregard of others",
+"tag": "new word",
+"script": "Percy dismissed the issue with a <strong>cavalier</strong> wave of his hand."
+}, {
+"word": "cerebral",
+"type": "<strong>adjective:</strong> involving intelligence rather than emotions or instinct",
+"tag": "new word",
+"script": "A <strong>cerebral</strong> analysis of most pop music finds it to be simple and childish, but that ignores the point--the musics effect on the listener."
+}, {
+"word": "clemency",
+"type": "<strong>noun:</strong> leniency and compassion shown toward offenders by a person or agency charged with administering justice",
+"tag": "new word",
+"script": "In the final moments of the trial, during his closing speech, Phillips was nearly begging the judge for <strong>clemency</strong>."
+}, {
+"word": "coalesce",
+"type": "<strong>verb:</strong> fuse or cause to grow together",
+"tag": "new word",
+"script": "Over time, the various tribes <strong>coalesced</strong> into a single common culture with one universal language."
+}, {
+"word": "cohesive",
+"type": "<strong>adjective:</strong> well integrated, forming a united whole",
+"tag": "new word",
+"script": "A well-written, <strong>cohesive</strong> essay will keep on topic at all times, never losing sight of the main argument."
+}, {
+"word": "consecrate",
+"type": "<strong>verb:</strong> to make holy or set apart for a high purpose",
+"tag": "new word",
+"script": "At the church of Notre Dame in France, the new High Altar was <strong>consecrated</strong> in 1182."
+}, {
+"word": "conundrum",
+"type": "<strong>noun:</strong> a difficult problem",
+"tag": "new word",
+"script": "Computers have helped solve some of the mathematical <strong>conundrums</strong> which have puzzled man for many centuries."
+}, {
+"word": "delegate",
+"type": "<strong>verb:</strong> give an assignment to (a person)",
+"tag": "new word",
+"script": "Since the senior manager had to go on many international business trips, she was forced to <strong>delegate</strong> many of her responsibilities to two lower-level managers."
+}, {
+"word": "deride",
+"type": "<strong>verb:</strong> treat or speak of with contempt",
+"tag": "new word",
+"script": "The nun <strong>derided</strong> the students for trying to sneak insects and worms into the classroom."
+}, {
+"word": "docile",
+"type": "<strong>adjective:</strong> easily handled or managed; willing to be taught or led or supervised or directed",
+"tag": "new word",
+"script": "Barnyard animals are considerably more <strong>docile</strong> than the wild animals."
+}, {
+"word": "eccentric",
+"type": "<strong>adjective:</strong> highly unconventional or unusual (usually describes a person)",
+"tag": "new word",
+"script": "Mozart was well-known for his <strong>eccentricities</strong>, often speaking words backward to confuse those around him."
+}, {
+"word": "emulate",
+"type": "<strong>verb:</strong> strive to equal or match, especially by imitating; compete with successfully",
+"tag": "new word",
+"script": "To really become fluent in a new language, <strong>emulate</strong> the speech patterns of people who speak the language."
+}, {
+"word": "evenhanded",
+"type": "<strong>adjective:</strong> without partiality",
+"tag": "new word",
+"script": "Teachers often have trouble being <strong>evenhanded</strong> to all of their varied students."
+}, {
+"word": "fawn",
+"type": "<strong>verb:</strong> try to gain favor by extreme flattery",
+"tag": "new word",
+"script": "The media <strong>fawned</strong> over the handsome new CEO, praising his impeccable sense of style instead of asking more pointed questions."
+}, {
+"word": "finagle",
+"type": "<strong>verb:</strong> achieve something by means of trickery or devious methods",
+"tag": "new word",
+"script": "Steven was able to <strong>finagle</strong> one of the last seats on the train by convincing the conductor that his torn stub was actually a valid ticket."
+}, {
+"word": "foolhardy",
+"type": "<strong>adjective:</strong> marked by defiant disregard for danger or consequences",
+"tag": "new word",
+"script": "The police regularly face dangerous situations, so for a police officer not to wear his bullet-proof vest is <strong>foolhardy</strong>."
+}, {
+"word": "forthright",
+"type": "<strong>adjective:</strong> characterized by directness in manner or speech; without subtlety or evasion",
+"tag": "new word",
+"script": "I did not expect the insurance agent to give us any straight answers, but I was pleasantly surprised by how <strong>forthright</strong> he was."
+}, {
+"word": "glean",
+"type": "<strong>verb:</strong> collect information bit by bit",
+"tag": "new word",
+"script": "Herb has given us no formal statement about his background, but from various hints, I have <strong>gleaned</strong> that he grew up in difficult circumstances."
+}, {
+"word": "humdrum",
+"type": "<strong>adjective:</strong> dull and lacking excitement",
+"tag": "new word",
+"script": "Having grown up in a <strong>humdrum</strong> suburb, Jacob relished life in New York City after moving."
+}, {
+"word": "implicate",
+"type": "<strong>verb:</strong> convey a meaning; imply",
+"tag": "new word",
+"script": "By saying that some of the guests were uncomfortable, the manager <strong>implicated</strong> to the hotel staff that it needed to be more diligent.<br/><strong>verb:</strong> to indicate in wrongdoing, usually a crime<br/>The crime boss was <strong>implicated</strong> for a long list of crimes, ranging from murder to disturbing the peace."
+}, {
+"word": "incense",
+"type": "<strong>verb:</strong> make furious",
+"tag": "new word",
+"script": "When Herb bought football tickets for a game on the day of their wedding anniversary, Jill was <strong>incensed</strong>."
+}, {
+"word": "incumbent",
+"type": "<strong>adjective:</strong> necessary (for someone) as a duty or responsibility",
+"tag": "new word",
+"script": "Middle managers at times make important decisions, but real responsibility for the financial well-being of the corporation is ultimately <strong>incumbent</strong> on the CEO."
+}, {
+"word": "industrious",
+"type": "<strong>adjective:</strong> characterized by hard work and perseverance",
+"tag": "new word",
+"script": "Pete was an <strong>industrious</strong> student, completing every assignment thoroughly and on time."
+}, {
+"word": "insipid",
+"type": "<strong>adjective:</strong> dull and uninteresting",
+"tag": "new word",
+"script": "The movie director was known for hiring beautiful actors in order to deflect attention away from the <strong>insipid</strong> scripts he would typically use."
+}, {
+"word": "intermittent",
+"type": "<strong>adjective:</strong> stopping and starting at irregular intervals",
+"tag": "new word",
+"script": "The <strong>intermittent</strong> thunder continued and the night was punctuated by cracks of lightning—a surreal sleepless night."
+}, {
+"word": "irascible",
+"type": "<strong>adjective:</strong> quickly aroused to anger",
+"tag": "new word",
+"script": "If Arthurs dog is not fed adequately, he becomes highly <strong>irascible</strong>, even growling at his own shadow."
+}, {
+"word": "lethargic",
+"type": "<strong>adjective:</strong> lacking energy",
+"tag": "new word",
+"script": "Nothing can make a person more <strong>lethargic</strong> than a big turkey dinner."
+}, {
+"word": "melancholy",
+"type": "<strong>noun:</strong> a deep, long-lasting sadness",
+"tag": "new word",
+"script": "Hamlet is a figure of tremendous <strong>melancholy</strong>: he doesnt have a truly cheerful scene throughout the entire play."
+}, {
+"word": "piquant",
+"type": "<strong>adjective:</strong> having an agreeably pungent taste",
+"tag": "new word",
+"script": "The chef, with a mere flick of the salt shaker, turned the bland tomato soup into a <strong>piquant</strong> meal."
+}, {
+"word": "precarious",
+"type": "<strong>adjective:</strong> fraught with danger",
+"tag": "new word",
+"script": "People smoke to relax and forget their cares, but ironically, in terms of health risks, smoking is far more <strong>precarious</strong> than either mountain-climbing or skydiving."
+}, {
+"word": "preempt",
+"type": "<strong>verb:</strong> take the place of or have precedence over",
+"tag": "new word",
+"script": "A governmental warning about an imminent terrorist attack would <strong>preempt</strong> ordinary network programming on television."
+}, {
+"word": "presumptuous",
+"type": "<strong>adjective:</strong> excessively forward",
+"tag": "new word",
+"script": "Many felt that Barney was <strong>presumptuous</strong> in moving into the large office before the management even made any official announcement of his promotion."
+}, {
+"word": "prevail",
+"type": "<strong>verb:</strong> be widespread in a particular area at a particular time; be current:",
+"tag": "new word",
+"script": "During the labor negotiations, an air of hostility <strong>prevailed</strong> in the office.<br/><strong>verb:</strong> prove superior<br/>Before the cricket match, Australia was heavily favored, but India <strong>prevailed</strong>."
+}, {
+"word": "profusion",
+"type": "<strong>noun:</strong> the property of being extremely abundant",
+"tag": "new word",
+"script": "When Maria reported that she had been visited by Jesus Christ and had proof, a <strong>profusion</strong> of reporters and journalists descended on the town."
+}, {
+"word": "rakish",
+"type": "<strong>adjective:</strong> marked by a carefree unconventionality or disreputableness",
+"tag": "new word",
+"script": "As soon as he arrived in the city, the <strong>rakish</strong> young man bought some drugs and headed straight for the seedy parts of town."
+}, {
+"word": "redress",
+"type": "<strong>noun:</strong> an act of making something right",
+"tag": "new word",
+"script": "Barrys <strong>redress</strong> for forgetting his wifes birthday two years in a row was surprising her with a trip to Tahiti."
+}, {
+"word": "rile",
+"type": "<strong>verb:</strong> cause annoyance in; disturb, especially by minor irritations",
+"tag": "new word",
+"script": "Dan is usually calm and balanced, but it takes only one intense glare from Sabrina to <strong>rile</strong> him."
+}, {
+"word": "tribulation",
+"type": "<strong>noun:</strong> something, especially an event, that causes difficulty and suffering",
+"tag": "new word",
+"script": "As of 2013, nearly 1.5 million Syrians have fled their country hoping to escape the <strong>tribulations</strong> of a civil war tearing their country to pieces."
+}, {
+"word": "uncanny",
+"type": "<strong>adjective:</strong> suggesting the operation of supernatural influences; surpassing the ordinary or normal",
+"tag": "new word",
+"script": "Reggie has an <strong>uncanny</strong> ability to connect with animals: feral cats will readily approach him, and sometimes even wild birds will land on his finger."
+}, {
+"word": "veneer",
+"type": "<strong>noun:</strong> covering consisting of a thin superficial layer that hides the underlying substance",
+"tag": "new word",
+"script": "Mark Twain referred to the Victorian Period in America as the \"Gilded Age\", implying the ample moral corruption that lay beneath a mere <strong>veneer</strong> of respectability."
+}, {
+"word": "wanton",
+"type": "<strong>adjective:</strong> without check or limitation; showing no moral restraints to ones anger, desire, or appetites",
+"tag": "new word",
+"script": "Due to <strong>wanton</strong> behavior and crude language, the drunk man was thrown out of the bar and asked to never return."
+}]
+}]

@@ -1,0 +1,6 @@
+framework module Pods_GRE {
+  umbrella header "Pods-GRE-umbrella.h"
+
+  export *
+  module * { export * }
+}

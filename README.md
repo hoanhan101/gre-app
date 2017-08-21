@@ -4,3 +4,5 @@ This project was also accomplished at Techkids.vn. Along with PokemonQuiz, we ma
 The philosophy behind the app:
 * It had to be simple, friendly colorful and easy to use.
 * It had the learning process: Green line for Mastered Word (Right on first try), Yellow for Reviewing (Right on the second try), Red for Learning (Every wrong).
+
+For more information, please visit my website at https://hoanhan101.github.io/
